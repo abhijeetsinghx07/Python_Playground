@@ -3,10 +3,10 @@
 
 
 **program_1. Write a program to print the following using while loop**
-- a. First 10 Even numbers
-- b. First 10 Odd numbers
-- c. First 10 Natural numbers
-- d. First 10 Whole numbers
+a.First 10 Even numbers
+b.First 10 Odd numbers
+c.First 10 Natural numbers
+d.First 10 Whole numbers
 
 **program_2. Write a program to print the first 10 integers and their squares using a while loop.**
 ``` 
