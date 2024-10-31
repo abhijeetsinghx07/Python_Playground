@@ -1,6 +1,6 @@
-### Questions
+# Questions
 <hr>
-
+```
 Q1. Write a program to print the following using while loop
 a. First 10 Even numbers
 b. First 10 Odd numbers
@@ -17,3 +17,4 @@ Q9. Write a program to print all even numbers that fall between two numbers (exc
 numbers) entered from the user using a while loop.
 Q10. Write a program to check whether a number is prime or not using a while loop.
 
+```
