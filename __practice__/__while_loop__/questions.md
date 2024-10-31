@@ -8,19 +8,6 @@ program_1. Write a program to print the following using while loop
 - First 10 Whole numbers
 
 program_2. Write a program to print the first 10 integers and their squares using a while loop.
-```python
-n=int(input("Enter the value that you want to calculate: "))
-sum=0
-
-while n>0:
-    sum=sum+n
-    # print ("Value of sum is now: ",sum)
-   
-    n-=1
-    # print("Value of n is now: ",n)
-
-print(sum)
-```
  
 program_3. Write while loop statement to print the following series: 10, 20, 30 … … 300.
 
