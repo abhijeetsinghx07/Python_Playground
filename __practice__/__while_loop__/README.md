@@ -1,15 +1,15 @@
 # Questions
-<hr>
+---
 
-```
-program_1. Write a program to print the following using while loop
+
+**program_1. Write a program to print the following using while loop**
 a. First 10 Even numbers
 b. First 10 Odd numbers
 c. First 10 Natural numbers
 d. First 10 Whole numbers
 
-program_2. Write a program to print the first 10 integers and their squares using a while loop.
-
+**program_2. Write a program to print the first 10 integers and their squares using a while loop.**
+``` 
 program_3. Write while loop statement to print the following series: 10, 20, 30 … … 300
 
 program_4. Write a while loop statement to print the following series 105, 98, 91 ………7.
