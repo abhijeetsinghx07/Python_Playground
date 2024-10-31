@@ -44,4 +44,86 @@ program_18. Write a program to add first n terms of the following series using a
 program_19. Write a program to enter the numbers till the user wants and at the end it should display the sum of all the numbers entered.
 
 program_20. Write a program to enter the numbers till the user enters ZERO and at the end it should display the count of positive and negative numbers entered.
+
+program_21. Write a program to find the HCF of two numbers entered from the user.
+
+program_22. Write a program to convert Decimal to Binary.
+
+program_23. Write a program to convert Binary to Decimal.
+
+program_24. Write a program to check whether a number is palindrome or not.
+
+program_25. Write a python program to sum the sequence:
+1 + 1/1! + 1/2! + 1/3! + …….. + 1/n!
+
+program_26. Write a program to accept 10 numbers from the user and display it’s average.
+
+program_27. Write a program to accept 10 numbers from the user and display the largest & smallest number.
+
+program_28. Write a program to display the sum of odd numbers and even numbers separately that fall between two numbers accepted from the user (including both numbers) using a while loop.
+
+program_29. Write a program to display all the numbers which are divisible by 13 but not by 3 between 100 and 500 (exclusive both numbers).
+
+program_30. Write a program to print the following series till n terms.
+2 , 22 , 222 , 2222 _ _ _ _ _ n terms
+
+program_31. Write a program to print the following series till n terms.
+1 4 9 16 25 _ _ _ _ _ n terms.
+
+program_32. Write a program to find the sum of the following series(accept values of x and n from user)
+1 + x/1! + x2/2! + ……….xn/n!
+
+program_33. Write a program to find the sum of following series :
+x + x2/2 + ……….xn/n
+
+program_34. Write a program to find the sum of following series
+1 + 8 + 27 …………n terms
+
+program_35. Write a program to find the sum of following series:
+1 + 2 + 6 + 24 + 120 . . . . . n terms
+
+program_36. Write a program to find the sum of following series:
+S = 1 + 4 – 9 + 16 – 25 + 36 – … … n terms
+
+program_37. Write a Program to print all the characters in the string ‘PYTHON’ using a while loop.
+
+program_38. Write a program to print only odd numbers from the given list using a while loop. L = [23,
+45, 32, 25, 46, 33, 71, 90]
+
+program_39. Write a program to print all the factors of a number using a while loop.
+
+program_40. Write a python program to get the following output
+'''
+1—–49
+2—–48
+3—–47
+-----
+49—–1
+'''
+
+program_41. Write a program to extract all the upper case character from the given string
+
+program_42. Write a Program to separate positive and negative numbers from a list.
+
+program_43. Write a program that appends the type of elements from a list.
+
+program_44. Write a program to fetch only even values from a dictionary.
+
+program_45. Write a program to extract all the string data items from the given list only if string is palindrome
+
+program_46. Write a program to extract all the special characters from the given string by user.
+
+program_47. Write a program to extract all the uppercase character ,lower case character ,numbers and
+special characters into four different output variables from the given string
+
+program_48. 
+
+program_49. Write a program to convert all the lowercase character to upper case characters present in a string given by user.
+
+program_50. Write a program to convert all the lower case character to upper case character and upper case character to lowercase character by keeping number and special character as it is.
+
+
+
+
+
 ```
