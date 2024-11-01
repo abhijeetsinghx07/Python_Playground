@@ -1,11 +1,7 @@
 # Questions
 
 ```
-program_1. Write a program to print the following using while loop
-- First 10 Even numbers
-- First 10 Odd numbers
-- First 10 Natural numbers
-- First 10 Whole numbers
+program_1. Write a program to print first 10 even number using while loop take input from user
 
 program_2. Write a program to print the first 10 integers and their squares using a while loop.
  
