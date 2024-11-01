@@ -3,9 +3,9 @@
 ```
 program_1. Write a program to print first 10 even number using while loop take input from user.
 
-program_2. Write a program to print the first 10 integers and their squares using a while loop.
+program_2. Write a program to print the first 10 integers and their squares using a while loop take input from user.
  
-program_3. Write while loop statement to print the following series: 10, 20, 30 … … 300.
+program_3. Write while loop statement to print the following series: 10, 20, 30 … … 100.
 
 program_4. Write a while loop statement to print the following series 105, 98, 91 ………7.
 
