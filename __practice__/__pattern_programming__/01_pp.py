@@ -1,6 +1,8 @@
-#Print vertical stars pattern
+rows= int(input("Enter number of rows you want print in half pyramid pattern: "))
 
-num= int(input("Enter the number of stars you want: "))
+for i in range(rows+1):
+    for j in range(i):
+        print("*",end=' ')
+    print()
 
-for i in range(num):
-    print('*')
+   
