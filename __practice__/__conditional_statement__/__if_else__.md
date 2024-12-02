@@ -16,7 +16,7 @@
 
 **9.** Write a program to check whether the given integer number is multiple of 10 or not.
 
-**10.** Write a program to consider an integer number.** If the number is even then print square of the number else print the cube of the number.
+**10.** Write a program to consider an integer number. If the number is even then print square of the number else print the cube of the number.
 
 **11.** Write a program to check whether the given string is palindrome or not.
 
@@ -34,6 +34,6 @@
 
 **18.** Write a program to find the largest number out of two numbers expected from the user.
 
-**19.** Write a program to check whether a number.**Entered by the user is positive or negative.
+**19.** Write a program to check whether a number. Entered by the user is positive or negative.
 
 **20.** Write a program to check whether a number accepted from the user is divisible by two and three both.
