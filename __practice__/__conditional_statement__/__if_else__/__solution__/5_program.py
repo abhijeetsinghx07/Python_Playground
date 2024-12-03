@@ -2,10 +2,14 @@
 
 value = input("Enter a word to check middle value: ")
 
-if len(value) % 2 != 0:
+#only odd length string have middle character 
+
+if len(value) % 2 != 0:            
+    
+    middle_index = len(value)//2  #calculate the middle character here
 
     print(f'"{value}" contain middle character.')
-    print(f'Middle character is: "{value[round(len(value)/2)]}"')
+    print(f'Middle character is: "{value[middle_index]}"')
 
 else:
     print(f'"{value}" does not contain a middle character.')
