@@ -1,6 +1,6 @@
 # Questions
 
-```
+```markdown
 program_1. Write a program to print first 10 even number using while loop take input from user.
 
 program_2. Write a program to print the first 10 integers and their squares using a while loop take input from user.
@@ -230,9 +230,5 @@ program_95. Write a program to extract all integer data items from tuple
 program_96. Write a program to extract all the non default values from the list
 
 program_97. Write a program to check weather the first and last value in the collection is float if yes addthose 2 values
-
-
-
-
 
 ```
