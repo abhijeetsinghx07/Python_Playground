@@ -1,9 +1,5 @@
 #Write a program to find out what version of Python you are using.
 
-# print(sys.version)
-# print(sys.platform) 
-# print(sys.version_info) 
-
 import sys
 import platform
 
