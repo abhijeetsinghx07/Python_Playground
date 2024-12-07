@@ -8,3 +8,4 @@ value = input("Enter your file name to extract it's extenion: ")
 
 #is there any way to find index number of '.'
 
+ 
