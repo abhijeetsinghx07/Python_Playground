@@ -7,3 +7,7 @@ abs(number) -> number
 Return the absolute value of the argument.
 
 '''
+print(f"About abs(): {abs.__doc__}")
+print(f"About len(): {len.__doc__}")
+
+
