@@ -1,9 +1,7 @@
 
 ```markdown
 
-1. Formatted Twinkle Poem
-
-Write a program to print the following string in a specific format (see the output).
+1. Write a program to print the following string in a specific format (see the output).
 
 Sample String : "Twinkle, twinkle, little star, How I wonder what you are! Up above the world so high, Like a diamond in the sky. Twinkle, twinkle, little star, How I wonder what you are"
 
@@ -15,13 +13,9 @@ Twinkle, twinkle, little star,
 Twinkle, twinkle, little star, 
 	How I wonder what you are
 
-2. Python Version Checker
+2. Write a program to find out what version of Python you are using.
 
-Write a program to find out what version of Python you are using.
-
-3. Current DateTime Display
-
-Write a program to display the current date and time.
+3. Write a program to display the current date and time.
 
 Sample Output :
 
@@ -29,9 +23,7 @@ Current date and time :
 2014-07-05 14:34:14
 
 
-4. Circle Area Calculator
-
-Write a program that calculates the area of a circle based on the radius entered by the user.
+4. Write a program that calculates the area of a circle based on the radius entered by the user.
 
 Sample Output :
 r = 1.1
@@ -39,14 +31,10 @@ r = 1.1
 Area = 3.8013271108436504
 
 
-5. Reverse Full Name
-
-Write a program that accepts the user's first and last name and prints them in reverse order with a space between them.
+5. Write a program that accepts the user's first and last name and prints them in reverse order with a space between them.
 
 
-6. List and Tuple Generator
-
-Write a program that accepts a sequence of comma-separated numbers from the user and generates a list and a tuple of those numbers.
+6. Write a program that accepts a sequence of comma-separated numbers from the user and generates a list and a tuple of those numbers.
 
 Sample data : 3, 5, 7, 23
 
@@ -55,40 +43,30 @@ List : ['3', ' 5', ' 7', ' 23']
 Tuple : ('3', ' 5', ' 7', ' 23')
 
 
-7. File Extension Extractor
-
-Write a program that accepts a filename from the user and prints the extension of the file.
+7. Write a program that accepts a filename from the user and prints the extension of the file.
 Sample filename : abc.java
 Output : java
 
 
-8. First and Last Colors
-
-Write a program to display the first and last colors from the following list.
+8. Write a program to display the first and last colors from the following list.
 
 color_list = ["Red","Green","White" ,"Black"]
 
 
-9. Exam Schedule Formatter
-
-Write a program to display the examination schedule. (extract the date from exam_st_date).
+9. Write a program to display the examination schedule. (extract the date from exam_st_date).
 exam_st_date = (11, 12, 2014)
 
 Sample Output : The examination will start from : 11 / 12 / 2014
 
 
-10. Number Expansion Calculator
-
-Write a program that accepts an integer (n) and computes the value of n+nn+nnn.
+10. Write a program that accepts an integer (n) and computes the value of n+nn+nnn.
 
 Sample value of n is 5
 
 Expected Result : 615
 
 
-11. Function Documentation Printer
-
-Write a program to print the documents (syntax, description etc.) of Python built-in function(s).
+11. Write a program to print the documents (syntax, description etc.) of Python built-in function(s).
 
 Sample function : abs()
 
@@ -97,16 +75,12 @@ abs(number) -> number
 Return the absolute value of the argument.
 
 
-12. Monthly Calendar Display
-
-Write a program that prints the calendar for a given month and year.
+12. Write a program that prints the calendar for a given month and year.
 
 Note : Use 'calendar' module.
 
 
-13. Multi-line Here Document
-
-Write a program to print the following 'here document'.
+13. Write a program to print the following 'here document'.
 
 Sample string :
 a string that you "don't" have to escape
@@ -115,18 +89,14 @@ is a ....... multi-line
 heredoc string --------> example
 
 
-14. Days Between Dates
-
-Write a program to calculate the number of days between two dates.
+14. Write a program to calculate the number of days between two dates.
 
 Sample dates : (2014, 7, 2), (2014, 7, 11)
 
 Expected output : 9 days
 
 
-15. Sphere Volume Calculator
-
-Write a program to get the volume of a sphere with radius six.
+15. Write a program to get the volume of a sphere with radius six.
 
 
 16. Difference from 17
