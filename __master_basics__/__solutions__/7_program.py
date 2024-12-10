@@ -6,13 +6,10 @@ Output : java
 
 value = input("Enter your file name to extract it's extenion: ")
 
-i=0 #initialization
+ext=value.split('.')
 
-while i<len(value): 
-    if value[i]=='.':
-        print(f"Extension is: {value[i:]}")
+print(f"Your Extension is : {ext[-1]}")
 
-    i+=1 #increment
 
 
  
