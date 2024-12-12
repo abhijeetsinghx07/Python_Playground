@@ -1,0 +1,1 @@
+#Write a program to check whether a number entered is a 3 digit number or not.
