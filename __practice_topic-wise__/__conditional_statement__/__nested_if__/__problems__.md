@@ -156,17 +156,17 @@
 
 24. Write a program to simulate a vending machine that dispenses items based on the amount inserted and item choice.
 
-1. The vending machine offers:
-    - Soda: $1.50
-    - Chips: $2.00
-    - Candy: $1.00
-2. The user:
-    - Inputs the amount of money inserted.
-    - Selects an item by entering the corresponding name.
-3. The vending machine:
-    - Checks if the user has enough money.
-    - Dispenses the item and returns the change.
-    - If the amount is insufficient, displays an error message.
+      1. The vending machine offers:
+            - Soda: $1.50
+            - Chips: $2.00
+            - Candy: $1.00
+      2. The user:
+            - Inputs the amount of money inserted.
+            - Selects an item by entering the corresponding name.
+      3. The vending machine:
+            - Checks if the user has enough money.
+            - Dispenses the item and returns the change.
+            - If the amount is insufficient, displays an error message.
 
 25. Write a program to calculate the total bill after applying discounts based on the restaurant's rules.
 
