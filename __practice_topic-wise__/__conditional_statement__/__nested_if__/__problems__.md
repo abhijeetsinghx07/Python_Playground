@@ -3,18 +3,18 @@
 
 2. Program to print middle value of the given heterogeneous tuple collection only if the middle value is string and having the length greater than 3.
 
-3. Write a programT= to check the greater among four numbers using nested if.
+3. Write a program to check the greater among four numbers using nested if.
 
 4. Write a program to find the second greatest among four numbers.
 
 5. Write a program to check the type of a given character.
 
-6. Write a program to consider an integer number. Print happy if the number is divisible by two. Print SAD if the number is divisible by 5 and
-   print square of the numbers only if it is divisible by seven else print the number as it is.
+6. Write a program to consider an integer number. Print happy if the number is divisible by two. Print SAD if the number is divisible by 5 and print square of the numbers only if it is divisible by seven else print the number as it is.
 
-7. Write a program to find the smallest among three numbers. Program to consider an input string. Print the string as it is if it is palindrome.
-   Print the reverse string if it has an even number of characters. Print all the characters present at an odd index if the string is having an
-   odd number of characters.
+7. Write a program to find the smallest among three numbers. 
+ Program to consider an input string. Print the string as it is if it is palindrome.
+   Print the reverse string if it has an even number of characters. 
+   Print all the characters present at an odd index if the string is having an odd number of characters.
 
 9. Write a program to print middle Character.Given string only if it is upper case character.
 
