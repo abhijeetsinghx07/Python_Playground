@@ -124,14 +124,14 @@
 17. Write a program to find the smallest among three numbers. 
 
 18. Write a program to consider an integer number. 
-    1. Print happy if the number is divisible by two. 
-    2. Print SAD if the number is divisible by 5.
-    3. Print square of the numbers only if it is divisible by seven else print the number as it is.
+      1. Print happy if the number is divisible by two. 
+      2. Print SAD if the number is divisible by 5.
+      3. Print square of the numbers only if it is divisible by seven else print the number as it is.
 
 19. Program to consider an input string. 
-    1. Print the string as it is if it is palindrome.
-    2. Print the reverse string if it has an even number of characters. 
-    3. Print all the characters present at an odd index if the string is having an odd number of characters.
+      1. Print the string as it is if it is palindrome.
+      2. Print the reverse string if it has an even number of characters. 
+      3. Print all the characters present at an odd index if the string is having an odd number of characters.
 
 20. Write a program to print middle Character of given string only if it is upper case character.
 
@@ -170,17 +170,17 @@
 
 25. Write a program to calculate the total bill after applying discounts based on the restaurant's rules.
 
-1. Discounts offered:
-    - If the bill amount is less than $100, no discount.
-    - If the bill is between $100 and $300:
-        - If it's a weekday, give a 10% discount.
-        - If it's a weekend, give a 15% discount.
-    - If the bill is over $300:
-        - If the customer is a VIP, give a 25% discount.
-        - If not, give a 20% discount.
-2. The user:
-    - Inputs the bill amount.
-    - Indicates whether it's a weekday or weekend.
-    - Indicates if they are a VIP (for bills over $300).
+      1. Discounts offered:
+            - If the bill amount is less than $100, no discount.
+            - If the bill is between $100 and $300:
+                  - If it's a weekday, give a 10% discount.
+                  - If it's a weekend, give a 15% discount.
+            - If the bill is over $300:
+                  - If the customer is a VIP, give a 25% discount.
+                  - If not, give a 20% discount.
+      2. The user:
+            - Inputs the bill amount.
+            - Indicates whether it's a weekday or weekend.
+            - Indicates if they are a VIP (for bills over $300).
 
 ```
