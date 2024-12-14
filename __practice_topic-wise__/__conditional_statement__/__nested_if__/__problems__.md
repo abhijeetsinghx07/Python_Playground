@@ -1,4 +1,4 @@
-
+```markdown
 
 1. Write a program to create an Instagram login page.
     - Input Required:
@@ -183,3 +183,4 @@
             - Indicates whether it's a weekday or weekend.
             - Indicates if they are a VIP (for bills over $300).
 
+```
