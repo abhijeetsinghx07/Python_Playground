@@ -1,7 +1,7 @@
 ```markdown
 
 1. Write a program to create an Instagram login page.
-    - **Input Required:**
+    - Input Required:
         - Username (`input()`): Ask the user to enter their Instagram username.
         - Password (`input()`): Ask the user to enter their password.
     - Check if the entered username exists in the database (simulate with predefined values).
@@ -10,7 +10,7 @@
             - Print a success message: "Login successful! Welcome to Instagram."
         - Else: Print: "Incorrect password. Please try again."
     - If the username is invalid, print: "Username not found. Please sign up."
-    - **Extra Features:**
+    - Extra Features:
         - Add a "Forgot Password?" option to simulate a password recovery process.
         - Allow three attempts for login before locking the account.
 
@@ -35,9 +35,9 @@
 4. Write a program to check whether three sides entered by the user can form a triangle:
     - First, check if the sum of any two sides is greater than the third side.
     - If it's valid, classify the triangle:
-        - If all sides are equal, it's an **Equilateral triangle**.
-        - If only two sides are equal, it's an **Isosceles triangle**.
-        - If no sides are equal, it's a **Scalene triangle**.
+        - If all sides are equal, it's an Equilateral triangle.
+        - If only two sides are equal, it's an Isosceles triangle.
+        - If no sides are equal, it's a Scalene triangle.
     - If the sides cannot form a triangle, print an error message.
 
 5. Write a program to find the number of days in a given month and year:
@@ -57,7 +57,7 @@
 
 7. Create a program to simulate an ATM withdrawal system:
     
-    Prompt the user to enter their **PIN**.
+    Prompt the user to enter their PIN.
     
     - If the PIN is correct:
         - Ask the user for the amount to withdraw.
@@ -78,35 +78,35 @@
     - Display the final ticket price.
 9. Create a program to check if someone is eligible for car insurance:
     
-    Ask the user for their **age** :
+    Ask the user for their age :
     
     - If the age is below 18, print "Not eligible for insurance."
     - If the age is between 18 and 70:
-        - Ask if they have a **valid driving license**.
+        - Ask if they have a valid driving license.
             - If yes, print "Eligible for insurance."
             - If no, print "You need a valid license to apply for insurance."
     - If the age is above 70, print "Too old to apply for insurance."
 10. Write a program to calculate the discount for a customer:
     
-    Ask the user for their **total purchase amount**:
+    Ask the user for their total purchase amount:
     
     - If the amount is less than $100, no discount.
     - If the amount is between $100 and $500:
-        - Ask if the customer has a **membership card**.
+        - Ask if the customer has a membership card.
             - If yes, apply a 10% discount.
             - If no, apply a 5% discount.
     - If the amount is above $500:
-        - Ask if it's a **holiday season**.
+        - Ask if it's a holiday season.
             - If yes, apply a 20% discount.
             - If no, apply a 15% discount.
     - Display the final price after the discount.
 11. Create a program to check if a student is eligible for admission:
     
-    Ask the student for their **high school percentage** :
+    Ask the student for their high school percentage :
     
     - If the percentage is below 50%, print "Not eligible for admission."
     - If the percentage is between 50% and 75%:
-        - Check if they have any **sports quota**.
+        - Check if they have any sports quota.
             - If yes, print "Eligible under sports quota."
             - If no, print "Eligible for admission."
     - If the percentage is above 75%, print "Direct admission granted."
@@ -136,13 +136,13 @@
 20. Write a program to print middle Character of given string only if it is upper case character.
 
 21. Write a program that determines the movie ticket price based on the age and day of the week
-    - The user inputs their **age** and the **day of the week**.
+    - The user inputs their age and the day of the week.
     - The day is converted to lowercase using `.strip().lower()` to ensure the input is case-insensitive (e.g., `Tuesday`, `tuesday`, and `TUESDAY` are treated the same).
-    - For **children under 1 year**:
+    - For children under 1 year:
         - `$6` on Tuesdays, `$8` on other days.
-    - For **seniors (65 and older)**:
+    - For seniors (65 and older):
         - Always `$5`, regardless of the day.
-    - For **adults (18+ years)**:
+    - For adults (18+ years):
         - `$10` on Tuesdays, `$12` on other days.
     - The ticket price is displayed based on the conditions.
 
@@ -157,9 +157,9 @@
 24. Write a program to simulate a vending machine that dispenses items based on the amount inserted and item choice.
 
 1. The vending machine offers:
-    - **Soda**: $1.50
-    - **Chips**: $2.00
-    - **Candy**: $1.00
+    - Soda: $1.50
+    - Chips: $2.00
+    - Candy: $1.00
 2. The user:
     - Inputs the amount of money inserted.
     - Selects an item by entering the corresponding name.
@@ -171,16 +171,16 @@
 25. Write a program to calculate the total bill after applying discounts based on the restaurant's rules.
 
 1. Discounts offered:
-    - If the **bill amount** is less than $100, no discount.
+    - If the bill amount is less than $100, no discount.
     - If the bill is between $100 and $300:
-        - If it's a **weekday**, give a 10% discount.
-        - If it's a **weekend**, give a 15% discount.
+        - If it's a weekday, give a 10% discount.
+        - If it's a weekend, give a 15% discount.
     - If the bill is over $300:
-        - If the customer is a **VIP**, give a 25% discount.
+        - If the customer is a VIP, give a 25% discount.
         - If not, give a 20% discount.
 2. The user:
     - Inputs the bill amount.
-    - Indicates whether it's a **weekday** or **weekend**.
+    - Indicates whether it's a weekday or weekend.
     - Indicates if they are a VIP (for bills over $300).
 
 ```
