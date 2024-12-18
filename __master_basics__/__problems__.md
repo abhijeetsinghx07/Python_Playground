@@ -99,34 +99,22 @@ Expected output : 9 days
 15. Write a program to get the volume of a sphere with radius six.
 
 
-16. Difference from 17
-
-Write a program to calculate the difference between a given number and 17. If the number is greater than 17, return twice the absolute difference.
+16. Write a program to calculate the difference between a given number and 17. If the number is greater than 17, return twice the absolute difference.
 
 
-17. Number Range Tester
-
-Write a program to test whether a number is within 100 of 1000 or 2000.
+17. Write a program to test whether a number is within 100 of 1000 or 2000.
 
 
-18. Triple Sum Calculator
-
-Write a program to calculate the sum of three given numbers. If the values are equal, return three times their sum.
+18. Write a program to calculate the sum of three given numbers. If the values are equal, return three times their sum.
 
 
-19. Prefix "Is" String Modifier
-
-Write a program to get a newly-generated string from a given string where "Is" has been added to the front. Return the string unchanged if the given string already begins with "Is".
+19.Write a program to get a newly-generated string from a given string where "Is" has been added to the front. Return the string unchanged if the given string already begins with "Is".
 
 
-20. String Copy Generator
-
-Write a program that returns a string that is n (non-negative integer) copies of a given string.
+20. Write a program that returns a string that is n (non-negative integer) copies of a given string.
 
 
-21. Even or Odd Checker
-
-Write a program that determines whether a given number (accepted from the user) is even or odd, and prints an appropriate message to the user.
+21. Write a program that determines whether a given number (accepted from the user) is even or odd, and prints an appropriate message to the user.
 
 
 22. Count 4 in List

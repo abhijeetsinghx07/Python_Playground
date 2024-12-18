@@ -8,11 +8,11 @@
         - If the username is valid, check the password.
         - If the password matches:
             - Print a success message: "Login successful! Welcome to Instagram."
-        - Else: Print: "Incorrect password. Please try again."
+        - Else Print: "Incorrect password. Please try again."
     - If the username is invalid, print: "Username not found. Please sign up."
+    
     - Extra Features:
         - Add a "Forgot Password?" option to simulate a password recovery process.
-        - Allow three attempts for login before locking the account.
 
 2. Write a program to take a student's marks as input and assign a grade based on the following criteria:
     - If the marks are greater than or equal to 90, assign grade `A`.
