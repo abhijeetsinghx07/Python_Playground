@@ -1,3 +1,4 @@
+```markdown
 1. Write a program to find the product of all the digits present in a number.
 
 2. Write a program to print all the integers present in a list.
@@ -84,3 +85,5 @@
 33. Write a program to print the square of all the integers present in a list.
 
 34. Write a program to extract all the odd number present at even index from a list.
+
+```
