@@ -530,120 +530,75 @@ Note : The system time is important for debugging, network information, random n
 Write a program to clear the screen or terminal.
 
 
-100. Get Host Name
-
-Write a program to get the name of the host on which the routine is running.
+100. Write a program to get the name of the host on which the routine is running.
 
 
-101. URL Content Printer
-
-Write a program to access and print a URL's content to the console.
+101. Write a program to access and print a URL's content to the console.
 
 
-102. System Command Output
-
-Write a program to get system command output.
+102. Write a program to get system command output.
 
 
-103. Extract Filename
-
-Write a program to extract the filename from a given path.
+103. Write a program to extract the filename from a given path.
 
 
-104. Process Group and User IDs
+104. Write a program to get the effective group id, effective user id, real group id, and a list of supplemental group ids associated with the current process.
 
-Write a program to get the effective group id, effective user id, real group id, and a list of supplemental group ids associated with the current process.
 Note: Availability: Unix.
 
 
-105. User Environment Retriever
-
-Write a program to get the users environment.
+105. Write a program to get the users environment.
 
 
-106. Path Extension Splitter
-
-Write a program to divide a path by the extension separator.
+106. Write a program to divide a path by the extension separator.
 
 
-107. File Properties Retriever
-
-Write a program to retrieve file properties.
+107. Write a program to retrieve file properties.
 
 
-108. File or Directory Path Finder
-
-Write a program to find the path to a file or directory when you encounter a path name.
+108. Write a program to find the path to a file or directory when you encounter a path name.
 
 
-109. Resolve Path Name
-
-Write a program to find the path to a file or directory when you encounter a path name.
+109. Write a program to find the path to a file or directory when you encounter a path name.
 
 
-110. Divisible by 15 Finder
-
-Write a program to get numbers divisible by fifteen from a list using an anonymous function.
+110. Write a program to get numbers divisible by fifteen from a list using an anonymous function.
 
 
-111. Wildcard File Lister
-
-Write a program to make file lists from the current directory using a wildcard.
+111. Write a program to make file lists from the current directory using a wildcard.
 
 
-112. Remove First List Item
-
-Write a program to remove the first item from a specified list.
+112. Write a program to remove the first item from a specified list.
 
 
-113. Number Input Validator
-
-Write a program that inputs a number and generates an error message if it is not a number.
+113. Write a program that inputs a number and generates an error message if it is not a number.
 
 
-114. Filter Positive Numbers
-
-Write a program to filter positive numbers from a list.
+114. Write a program to filter positive numbers from a list.
 
 
-115. List Product Calculator
-
-Write a program to compute the product of a list of integers (without using a for loop).
+115. Write a program to compute the product of a list of integers (without using a for loop).
 
 
-116. Print Unicode Characters
-
-Write a program to print Unicode characters.
+116. Write a program to print Unicode characters.
 
 
-117. String Memory Location Test
-
-Write a program to prove that two string variables of the same value point to the same memory location.
+117. Write a program to prove that two string variables of the same value point to the same memory location.
 
 
-118. Create Bytearray from List
-
-Write a program to create a bytearray from a list.
+118. Write a program to create a bytearray from a list.
 
 
-119. Round Float to Decimals
-
-Write a program to round a floating-point number to a specified number of decimal places.
+119. Write a program to round a floating-point number to a specified number of decimal places.
 
 
-120. String Formatter with Length Limit
-
-Write a program to format a specified string and limit the length of a string.
+120. Write a program to format a specified string and limit the length of a string.
 
 
-121. Variable Defined Checker
-
-Write a program to determine if a variable is defined or not.
+121. Write a program to determine if a variable is defined or not.
 
 
-122. Empty Variable Without Deletion
-
-Write a program to empty a variable without destroying it.
+122. Write a program to empty a variable without destroying it.
 
 Sample data: n=20
 d = {"x":200}
@@ -653,111 +608,71 @@ Expected Output : 0
 
 
 
-123. Max and Min of Number Types
-
-Write a program to determine the largest and smallest integers, longs, and floats.
+123. Write a program to determine the largest and smallest integers, longs, and floats.
 
 
-124. Variable Equality Checker
-
-Write a program to check whether multiple variables have the same value.
+124. Write a program to check whether multiple variables have the same value.
 
 
-125. Sum Collection Counts
-
-Write a program to sum all counts in a collection.
+125. Write a program to sum all counts in a collection.
 
 
-126. Get Module Object
-
-Write a program to get the actual module object for a given object.
+126. Write a program to get the actual module object for a given object.
 
 
-127. Integer Fits in 64 Bits
-
-Write a program to check whether an integer fits in 64 bits.
+127. Write a program to check whether an integer fits in 64 bits.
 
 
-128. Lowercase Letters Checker
-
-Write a program to check whether lowercase letters exist in a string.
+128. Write a program to check whether lowercase letters exist in a string.
 
 
-129. Add Leading Zeroes
-
-Write a program to add leading zeroes to a string.
+129. Write a program to add leading zeroes to a string.
 
 
-130. Double Quotes String Display
-
-Write a program that uses double quotes to display strings.
+130. Write a program that uses double quotes to display strings.
 
 
-131. Split Variable Length String
-
-Write a program to split a variable length string into variables.
+131. Write a program to split a variable length string into variables.
 
 
-132. List Home Directory
-
-Write a program to list the home directory without an absolute path.
+132. Write a program to list the home directory without an absolute path.
 
 
-133. Program Runtime Calculator
-
-Write a program to calculate the time runs (difference between start and current time) of a program.
+133. Write a program to calculate the time runs (difference between start and current time) of a program.
 
 
-134. Input Two Integers
-
-Write a program to input two integers on a single line.
+134. Write a program to input two integers on a single line.
 
 
-135. Print Variable Without Spaces
-
-Write a program to print a variable without spaces between values.
+135. Write a program to print a variable without spaces between values.
 Sample value : x =30
 Expected output : Value of x is "30"
 
 
-136. Files Only in Directory
-
-Write a program to find files and skip directories in a given directory.
+136. Write a program to find files and skip directories in a given directory.
 
 
-137. Extract Dictionary Pair
-
-Write a program to extract a single key-value pair from a dictionary into variables.
+137. Write a program to extract a single key-value pair from a dictionary into variables.
 
 
-138. Boolean to Integer Converter
-
-Write a program to convert true to 1 and false to 0.
+138. Write a program to convert true to 1 and false to 0.
 
 
-139. IP Address Validator
-
-Write a program to validate an IP address.
+139. Write a program to validate an IP address.
 
 
-140. Binary with Leading Zeroes
-
-Write a program to convert an integer to binary that keeps leading zeros.
+140. Write a program to convert an integer to binary that keeps leading zeros.
 Sample data : x=12
 Expected output : 00001100
 0000001100
 
 
-141. Decimal to Hexadecimal
-
-Write a program to convert decimal to hexadecimal.
+141. Write a program to convert decimal to hexadecimal.
 Sample decimal number: 30, 4
 Expected output: 1e, 04
 
 
-142. Consecutive Zero-One Checker
-
-Write a program to check if every consecutive sequence of zeroes is followed by a consecutive sequence of ones of same length in a given string. Return True/False.
+142. Write a program to check if every consecutive sequence of zeroes is followed by a consecutive sequence of ones of same length in a given string. Return True/False.
 
 Original sequence: 01010101
 Check if every consecutive sequence of zeroes is followed by a consecutive sequence of ones in the said string:
@@ -776,40 +691,26 @@ Check if every consecutive sequence of zeroes is followed by a consecutive seque
 False
 
 
-143. Shell Bit Mode Detector
-
-Write a program to determine if the Python shell is executing in 32-bit or 64-bit mode on the operating system.
+143. Write a program to determine if the Python shell is executing in 32-bit or 64-bit mode on the operating system.
 
 
-144. Variable Type Checker
-
-Write a program to check whether a variable is an integer or string.
+144. Write a program to check whether a variable is an integer or string.
 
 
-145. Check List, Tuple, or Set
-
-Write a program to test if a variable is a list, tuple, or set.
+145. Write a program to test if a variable is a list, tuple, or set.
 
 
-146. Locate Python Module Sources
-
-Write a program to find the location of Python module sources.
+146. Write a program to find the location of Python module sources.
 
 
-147. Divisibility Tester
-
-Write a Python function to check whether a number is divisible by another number. Accept two integer values from the user.
+147. Write a Python function to check whether a number is divisible by another number. Accept two integer values from the user.
 
 
-148. Max and Min Without Built-ins
-
-Write a Python function to find the maximum and minimum numbers from a sequence of numbers.
+148. Write a Python function to find the maximum and minimum numbers from a sequence of numbers.
 
 Note: Do not use built-in functions.
 
-149. Cube Sum of Smaller Integers
-
-Write a Python function that takes a positive integer and returns the sum of the cube of all positive integers smaller than the specified number.
+149. Write a Python function that takes a positive integer and returns the sum of the cube of all positive integers smaller than the specified number.
 
 
 150. Write a Python function to check whether a distinct pair of numbers whose product is odd is present in a sequence of integer values.
@@ -862,6 +763,7 @@ string_maps = {
 }
 
 164. Write a Python program to add two positive integers without using the '+' operator.
+
 Note: Use bit wise operations to add two numbers.
 
 165. Write a Python program to check the priority of the four operators (+, -, *, /).
@@ -870,6 +772,7 @@ Note: Use bit wise operations to add two numbers.
 
 167. Write a Python program to get all strobogrammatic numbers that are of length n.
 A strobogrammatic number is a number whose numeral is rotationally symmetric, so that it appears the same when rotated 180 degrees. In other words, the numeral looks the same right-side up and upside down (e.g., 69, 96, 1001).
+
 For example,
 Given n = 2, return ["11", "69", "88", "96"].
 Given n = 3, return ['818', '111', '916', '619', '808', '101', '906', '609', '888', '181', '986', '689']
@@ -893,6 +796,7 @@ Range - Number of notes(n) : n (1 <= n <= 1000000).
 175. Write a Python program to find the digits that are missing from a given mobile number.
 
 176. Write a Python program to compute the summation of the absolute difference of all distinct pairs in a given array (non-decreasing order).
+
 Sample array: [1, 2, 3]
 Then all the distinct pairs will be:
 1 2
@@ -906,6 +810,7 @@ According to Wikipedia, an arithmetic progression (AP) is a sequence of numbers 
 On the other hand, a geometric progression (GP) is a sequence of numbers where each term after the first is found by multiplying the previous one by a fixed non-zero number called the common ratio. For example, the sequence 2, 6, 18, 54, . . . is a geometric progression with common ratio 3. For this problem, we will limit ourselves to geometric progression whose common ratio is a non-zero integer.
 
 178. Write a Python program to print the length of the series and the series from the given 3rd term, 3rd last term and the sum of a series.
+
 Sample Data:
 Input third term of the series: 3
 Input 3rd last term: 3
@@ -917,5 +822,6 @@ Series:
 179. Write a Python program to find common divisors between two numbers in a given pair.
 
 180. Write a Python program to reverse the digits of a given number and add them to the original. Repeat this procedure if the sum is not a palindrome.
+
 Note: A palindrome is a word, number, or other sequence of characters which reads the same backward as forward, such as madam or racecar.
 ```
