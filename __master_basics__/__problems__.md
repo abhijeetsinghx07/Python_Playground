@@ -814,29 +814,29 @@ Write a Python function that takes a positive integer and returns the sum of the
 
 150. Write a Python function to check whether a distinct pair of numbers whose product is odd is present in a sequence of integer values.
 
-156. Write a Python function that takes a sequence of numbers and determines whether all the numbers are different from each other.
+151. Write a Python function that takes a sequence of numbers and determines whether all the numbers are different from each other.
 
 
-157. Write a Python program that creates all possible strings using the letters 'a', 'e', 'i', 'o', and 'I'. Ensure that each character is used only once.
+152. Write a Python program that creates all possible strings using the letters 'a', 'e', 'i', 'o', and 'I'. Ensure that each character is used only once.
 
 
-158. Write a Python program that removes and prints every third number from a list of numbers until the list is empty.
+153. Write a Python program that removes and prints every third number from a list of numbers until the list is empty.
 
-159. Write a Python program to identify unique triplets whose three elements sum to zero from an array of n integers.
+154. Write a Python program to identify unique triplets whose three elements sum to zero from an array of n integers.
 
-160. Write a Python program to make combinations of 3 digits.
+155. Write a Python program to make combinations of 3 digits.
 
-161. Write a Python program that prints long text, converts it to a list, and prints all the words and the frequency of each word.
+156. Write a Python program that prints long text, converts it to a list, and prints all the words and the frequency of each word.
 
-162. Write a Python program to count the number of each character in a text file.
+157. Write a Python program to count the number of each character in a text file.
 
-163. Write a Python program that retrieves the top stories from Google News.
+158. Write a Python program that retrieves the top stories from Google News.
 
-164. Write a Python program to get a list of locally installed Python modules.
+159. Write a Python program to get a list of locally installed Python modules.
 
-165. Write a Python program to display some information about the OS where the script is running.
+160. Write a Python program to display some information about the OS where the script is running.
 
-166. Write a Python program to check the sum of three elements (each from an array) from three arrays is equal to a target value. Print all those three-element combinations.
+161. Write a Python program to check the sum of three elements (each from an array) from three arrays is equal to a target value. Print all those three-element combinations.
 
 Sample data:
 /*
@@ -846,9 +846,9 @@ Z = [10, 30, 40, 20]
 target = 70
 */
 
-167. Write a Python program that generates a list of all possible permutations from a given collection of distinct numbers.
+162. Write a Python program that generates a list of all possible permutations from a given collection of distinct numbers.
 
-168. Write a Python program to get all possible two-digit letter combinations from a 1-9 digit string.
+163. Write a Python program to get all possible two-digit letter combinations from a 1-9 digit string.
 string_maps = {
 "1": "abc",
 "2": "def",
@@ -861,9 +861,23 @@ string_maps = {
 "9": "z"
 }
 
-169. Write a Python program to add two positive integers without using the '+' operator.
+164. Write a Python program to add two positive integers without using the '+' operator.
 Note: Use bit wise operations to add two numbers.
 
-170. Write a Python program to check the priority of the four operators (+, -, *, /).
+165. Write a Python program to check the priority of the four operators (+, -, *, /).
 
+166. Write a Python program to get the third side of a right-angled triangle from two given sides.
+
+167. Write a Python program to get all strobogrammatic numbers that are of length n.
+A strobogrammatic number is a number whose numeral is rotationally symmetric, so that it appears the same when rotated 180 degrees. In other words, the numeral looks the same right-side up and upside down (e.g., 69, 96, 1001).
+For example,
+Given n = 2, return ["11", "69", "88", "96"].
+Given n = 3, return ['818', '111', '916', '619', '808', '101', '906', '609', '888', '181', '986', '689']
+
+168. Write a Python program to find the median among three given numbers.
+
+169. Write a Python program that finds the value of n when n degrees of number 2 are written sequentially on a line without spaces between them.
+
+170. Write a Python program to find the number of zeros at the end of a factorial of a given positive number.
+Range of the number(n): (1 <= n <= 2*109).
 ```
