@@ -117,24 +117,16 @@ Expected output : 9 days
 21. Write a program that determines whether a given number (accepted from the user) is even or odd, and prints an appropriate message to the user.
 
 
-22. Count 4 in List
-
-Write a program to count the number 4 in a given list.
+22. Write a program to count the number 4 in a given list.
 
 
-23. String Prefix Copies
-
-Write a program to get n (non-negative integer) copies of the first 2 characters of a given string. Return n copies of the whole string if the length is less than 2.
+23. Write a program to get n (non-negative integer) copies of the first 2 characters of a given string. Return n copies of the whole string if the length is less than 2.
 
 
-24. Vowel Tester
-
-Write a program to test whether a passed letter is a vowel or not.
+24. Write a program to test whether a passed letter is a vowel or not.
 
 
-25. Value in Group Tester
-
-Write a program that checks whether a specified value is contained within a group of values.
+25. Write a program that checks whether a specified value is contained within a group of values.
 
 Test Data :
 3 -> [1, 5, 8, 3] : True

@@ -45,7 +45,7 @@
 
 19. Write a program to toggle a string.
 
-20. Write a program extract upper, lower, digit and special characters present in a string to different output variable.
+20. Write a program extract upper, lower, digit and special characters present in a string to different   output variable.
 
 21. Write a program to get the following output.
     S='hai hello'
