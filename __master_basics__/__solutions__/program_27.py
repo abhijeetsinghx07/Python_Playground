@@ -1,9 +1,10 @@
-#27. Write a program that concatenates all elements in a list into a string and returns it.
+#27. Write a program that concatenates all elements into a string and returns it.
 
 value = [1,2,"hello",55,"hey"]
+out=''
 
-value_2 = str(value)
+for i in value:
+    out+=str(i)
 
-print(value_2)
+print(out)
 
-print(type(value_2))
