@@ -164,61 +164,41 @@ Expected Output :
 30. Write a program that will accept the base and height of a triangle and compute its area.
 
 
-31. GCD Calculator
-
-Write a program that computes the greatest common divisor (GCD) of two positive integers.
+31. Write a program that computes the greatest common divisor (GCD) of two positive integers.
 
 
-32. LCM Calculator
-
-Write a program to find the least common multiple (LCM) of two positive integers.
+32. Write a program to find the least common multiple (LCM) of two positive integers.
 
 
-33. Triple Sum with Equality Rule
-
-Write a program to sum three given integers. However, if two values are equal, the sum will be zero.
+33. Write a program to sum three given integers. However, if two values are equal, the sum will be zero.
 
 
-34. Conditional Sum to 20
-
-Write a program to sum two given integers. However, if the sum is between 15 and 20 it will return 20.
+34. Write a program to sum two given integers. However, if the sum is between 15 and 20 it will return 20.
 
 
-35. Equality or 5 Rule Checker
+35. Write a program that returns true if the two given integer values are equal or their sum or difference is 5.
 
-Write a program that returns true if the two given integer values are equal or their sum or difference is 5.
-
-36. Add Integers Validator
-
-Write a program to add two objects if both objects are integers.
+36. Write a program to add two objects if both objects are integers.
 
 
-37. Personal Info Formatter
-
-Write a program that displays your name, age, and address on three different lines.
+37. Write a program that displays your name, age, and address on three different lines.
 
 
-38. Expression Solver
-
-Write a program to solve (x + y) * (x + y).
+38. Write a program to solve (x + y) * (x + y).
 
 Test Data : x = 4, y = 3
 
 Expected Output : (4 + 3) ^ 2) = 49
 
 
-39. Future Value Calculator
-
-Write a program to compute the future value of a specified principal amount, rate of interest, and number of years.
+39. Write a program to compute the future value of a specified principal amount, rate of interest, and number of years.
 
 Test Data : amt = 10000, int = 3.5, years = 7
 
 Expected Output : 12722.79
 
 
-40. Distance Between Points
-
-Write a program to calculate the distance between the points (x1, y1) and (x2, y2).
+40. Write a program to calculate the distance between the points (x1, y1) and (x2, y2).
 
 
 41. File Existence Checker
