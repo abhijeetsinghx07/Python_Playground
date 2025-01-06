@@ -6,4 +6,4 @@ height = float(input("Enter the height of triangle: "))
 
 Area = 1/2*(base*height)
 
-print(Area)
+print(f"Area of triangle is : {Area}")
