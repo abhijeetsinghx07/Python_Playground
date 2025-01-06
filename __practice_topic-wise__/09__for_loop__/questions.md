@@ -13,7 +13,7 @@
 
 7. Write a program to extract all the lowercase characters in a string only if the ascii value is even.
 
-8. Write a program to check whether the last digit of an integer is even or not.
+8. Write a program to check whether all digits of an integer is even or odd.
 
 9. Write a program to extract all the key value pairs from the dictionary only if the keys are of string datatype and values are integers.
 

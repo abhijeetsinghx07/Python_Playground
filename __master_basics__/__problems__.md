@@ -133,19 +133,13 @@ Test Data :
 -1 -> [1, 5, 8, 3] : False
 
 
-26. List Histogram
-
-Write a program to create a histogram from a given list of integers.
+26. Write a program to create a histogram from a given list of integers.
 
 
-27. List to String Concatenator
-
-Write a program that concatenates all elements in a list into a string and returns it.
+27. Write a program that concatenates all elements in a list into a string and returns it.
 
 
-28. Even Numbers Until 237
-
-Write a program to print all even numbers from a given list of numbers in the same order and stop printing any after 237 in the sequence.
+28. Write a program to print all even numbers from a given list of numbers in the same order and stop printing any after 237 in the sequence.
 
 Sample numbers list :
 
@@ -157,9 +151,7 @@ numbers = [
     ]
 
 
-29. Unique Colors Finder
-
-Write a program that prints out all colors from color_list_1 that are not present in color_list_2.
+29. Write a program that prints out all colors from color_list_1 that are not present in color_list_2.
 
 Test Data :
 color_list_1 = set(["White", "Black", "Red"])
@@ -169,9 +161,7 @@ Expected Output :
 {'Black', 'White'}
 
 
-30. Triangle Area Calculator
-
-Write a program that will accept the base and height of a triangle and compute its area.
+30. Write a program that will accept the base and height of a triangle and compute its area.
 
 
 31. GCD Calculator
