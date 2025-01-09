@@ -53,18 +53,22 @@
 
 22. Write a program to get the following output.
     S=['[jiocinema.com](http://jiocinema.com/)', '[file.py](http://file.py/)', 'web.html', '[amazom.com](http://amazom.com/)', '[www.org](http://www.org/)"]
+    
     Out ['com', 'py', 'html','org"]
 
 23. Write a program to get the following output.
     S=['[jiocinema.com](http://jiocinema.com/)', '[file.py](http://file.py/)', 'web.html', '[amazom.com](http://amazom.com/)', '[www.org](http://www.org/) '[python.py](http://python.py/)']
+    
     Out={'com":['jiocinema', 'amazon'], 'py': ['file', 'python'], 'html":["web"], 'org":["www"]}
 
 24. Write a program to get the following output.
     inp= ['hai',34,3.4,'hello',90,'byebye']
+    
     Out= ('hai': 'hi', 'hello': 'ho', 'byebye":"be"}
 
 25. Write a program to get the following output.
     In='hello'
+   
     Out (0:'h', 1:'e', 2: 'l', 3:'l',4:'o'}
 
 26. Write a program to extract all the string values present in list only if the string is palindrome.

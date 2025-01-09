@@ -6,3 +6,12 @@
 Expected Output : (4 + 3) ^ 2) = 49"""
 
 
+x = int(input("Enter value of x: "))
+y = int(input("Enter value of y: "))
+
+print(f"Result of calculation: {(x+y)*(x+y)}")
+
+
+
+
+

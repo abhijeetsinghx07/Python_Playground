@@ -201,29 +201,19 @@ Expected Output : 12722.79
 40. Write a program to calculate the distance between the points (x1, y1) and (x2, y2).
 
 
-41. File Existence Checker
-
-Write a program to check whether a file exists.
+41. Write a program to check whether a file exists.
 
 
-42. Shell Mode Detector
-
-Write a program to determine if a Python shell is executing in 32bit or 64bit mode on OS.
+42. Write a program to determine if a Python shell is executing in 32bit or 64bit mode on OS.
 
 
-43. OS and Platform Info
-
-Write a program to get OS name, platform and release information.
+43. Write a program to get OS name, platform and release information.
 
 
-44. Python Site Packages Locator
-
-Write a program to locate Python site packages.
+44. Write a program to locate Python site packages.
 
 
-45. External Command Runner
-
-Write a program that calls an external command.
+45. Write a program that calls an external command.
 
 
 46. File Path and Name Finder
