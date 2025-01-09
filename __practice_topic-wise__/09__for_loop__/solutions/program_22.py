@@ -19,10 +19,10 @@ out = []
 
 print(out)"""
 
-# for i in inp:
-#     out.append(i[i.index('.')+1:])
+"""for i in inp:
+    out.append(i[i.index('.')+1:])
 
-# print(out)
+print(out)"""
 
 print([ i[i.index('.')+1:] for i in inp])
 
