@@ -1,4 +1,4 @@
-# 30. Write a program to check which number from 1-9 is neon number. N=9-> 9**2=81->8+1=9
+# 35. Write a program to check which number from 1-9 is neon number. N=9-> 9**2=81->8+1=9
     
 """(A neon number is a number where the sum of digits of square of the number is equal to the number. 
     For example if the input number is 9, its square is 9*9 = 81 and sum of the digits is 9. 
