@@ -8,22 +8,21 @@ out= ['com', 'py', 'html','org"]
 """
 
 inp   = ['jiocinema.com', 'file.py', 'web.html', 'amazom.com', 'www.org']
-inp_1 = [['jiocinema.com', 'file.py', 'web.html', 'amazom.com', 'www.org']]
 
 out = []
 
-"""for i in inp:
-    temp+=i
-    out.append(temp[temp.index('.')+1:])
-    temp=''
+# temp=''
 
-print(out)"""
+# # for i in inp:
+# #     temp+=i
+# #     out.append(temp[temp.index('.')+1:])
+# #     temp=''
 
-"""for i in inp:
+# # print(out)
+
+for i in inp:
+
     out.append(i[i.index('.')+1:])
 
-print(out)"""
+print(out)
 
-print([ i[i.index('.')+1:] for i in inp])
-
-print([ j[j.index('.')+1:] for i in inp_1 for j in i])
