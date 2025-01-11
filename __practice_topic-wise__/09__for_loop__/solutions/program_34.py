@@ -1,0 +1,1 @@
+# 34. Write a program to extract all the odd number present at even index from a list.
