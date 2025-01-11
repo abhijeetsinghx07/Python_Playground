@@ -188,10 +188,11 @@
     Expected Output : 1010"""
 
 61. Write a Python program that accepts a string and calculates the number of digits and letters.
-    Sample Data : Python 3.2
+    
+    """Sample Data : Python 3.2
     Expected Output :
     Letters 6
-    Digits 2
+    Digits 2"""
 
 63. Write a Python program to check the validity of passwords input by users.
     
@@ -207,112 +208,116 @@
     of a number is an even number. The numbers obtained should be printed in a comma-separated sequence.
 
 65.  Write a Python program to calculate a dog's age in dog years.
-Note: For the first two years, a dog year is equal to 10.5 human years. After that, each dog year equals 4 human years.
-Expected Output:
-
-Input a dog's age in human years: 15                                    
-The dog's age in dog's years is 73
+    Note: For the first two years, a dog year is equal to 10.5 human years. After that, each dog year equals 4 human years.
+    
+    """Expected Output:
+    Input a dog's age in human years: 15                                    
+    The dog's age in dog's years is 73"""
 
 66. Write a Python program to check whether an alphabet is a vowel or consonant.
-Expected Output:
-
-Input a letter of the alphabet: k                                       
-k is a consonant.
+    
+    """Expected Output:
+    Input a letter of the alphabet: k                                       
+    k is a consonant."""
 
 67. Write a Python program to convert a month name to a number of days.
-Expected Output:
-
-List of months: January, February, March, April, May, June, July, August
-, September, October, November, December                                
-Input the name of Month: February                                       
-No. of days: 28/29 days 
+    
+    """Expected Output:
+    List of months: January, February, March, April, May, June, July, August
+    , September, October, November, December                                
+    Input the name of Month: February                                       
+    No. of days: 28/29 days""" 
 
 68. Write a Python program to sum two integers. However, if the sum is between 15 and 20 it will return 20.
 
 69. Write a Python program that checks whether a string represents an integer or not.
-Expected Output:
 
-Input a string: Python                                                  
-The string is not an integer.  
+    """Expected Output:
+    Input a string: Python                                                  
+    The string is not an integer."""  
 
 70. Write a Python program to check if a triangle is equilateral, isosceles or scalene.
-Note :
-An equilateral triangle is a triangle in which all three sides are equal.
-A scalene triangle is a triangle that has three unequal sides.
-An isosceles triangle is a triangle with (at least) two equal sides.
-Expected Output:
+    
+    """Note :
+    An equilateral triangle is a triangle in which all three sides are equal.
+    A scalene triangle is a triangle that has three unequal sides.
+    An isosceles triangle is a triangle with (at least) two equal sides.
+    
+    Expected Output:
+    Input lengths of the triangle sides:                                    
+    x: 6                                                                    
+    y: 8                                                                    
+    z: 12                                                                   
+    Scalene triangle"""
 
-Input lengths of the triangle sides:                                    
-x: 6                                                                    
-y: 8                                                                    
-z: 12                                                                   
-Scalene triangle
-
-71. Write a Python program that reads two integers representing a month and day and prints the season for that month and day.
-Expected Output:
-
-Input the month (e.g. January, February etc.): july                     
-Input the day: 31                                                       
-Season is autumn 
+71. Write a Python program that reads two integers representing a month and day and prints the season 
+    for that month and day.
+    
+    """Expected Output:
+    Input the month (e.g. January, February etc.): july                     
+    Input the day: 31                                                       
+    Season is autumn""" 
 
 72. Write a Python program to display the astrological sign for a given date of birth.
-Expected Output:
+    
+    """Expected Output:
+    Input birthday: 15                                                      
+    Input month of birth (e.g. march, july etc): may                        
+    Your Astrological sign is : Taurus""" 
 
-Input birthday: 15                                                      
-Input month of birth (e.g. march, july etc): may                        
-Your Astrological sign is : Taurus 
+73. Write a Python program to display the sign of the Chinese Zodiac for the given year in which you 
+    were born.
 
-73. Write a Python program to display the sign of the Chinese Zodiac for the given year in which you were born.
-Expected Output:
-
-Input your birth year: 1973                                             
-Your Zodiac sign : Ox
+    """Expected Output:
+    Input your birth year: 1973                                             
+    Your Zodiac sign : Ox"""
 
 74. Write a Python program to find the median of three values.
-Expected Output:
 
-Input first number: 15                                                  
-Input second number: 26                                                 
-Input third number: 29                                                  
-The median is 26.0 
+    """Expected Output:
+    Input first number: 15                                                  
+    Input second number: 26                                                 
+    Input third number: 29                                                  
+    The median is 26.0""" 
 
 75. Write a Python program to get the next day of a given date.
-Expected Output:
 
-Input a year: 2016                                                      
-Input a month [1-12]: 08                                                
-Input a day [1-31]: 23                                                  
-The next date is [yyyy-mm-dd] 2016-8-24
+    """Expected Output:
+    Input a year: 2016                                                      
+    Input a month [1-12]: 08                                                
+    Input a day [1-31]: 23                                                  
+    The next date is [yyyy-mm-dd] 2016-8-24"""
 
-76. Write a Python program to calculate the sum and average of n integer numbers (input from the user). Input 0 to finish.
+76. Write a Python program to calculate the sum and average of n integer numbers (input from the user).
+    Input 0 to finish.
 
 77. Write a Python program to create the multiplication table (from 1 to 10) of a number.
-Expected Output:
-
-Input a number: 6                                                       
-6 x 1 = 6                                                               
-6 x 2 = 12                                                              
-6 x 3 = 18                                                              
-6 x 4 = 24                                                              
-6 x 5 = 30                                                              
-6 x 6 = 36                                                              
-6 x 7 = 42                                                              
-6 x 8 = 48                                                              
-6 x 9 = 54                                                              
-6 x 10 = 60 
+    
+    """Expected Output:
+    Input a number: 6                                                       
+    6 x 1 = 6                                                               
+    6 x 2 = 12                                                              
+    6 x 3 = 18                                                              
+    6 x 4 = 24                                                              
+    6 x 5 = 30                                                              
+    6 x 6 = 36                                                              
+    6 x 7 = 42                                                              
+    6 x 8 = 48                                                              
+    6 x 9 = 54                                                              
+    6 x 10 = 60 """
 
 78. Write a Python program to construct the following pattern, using a nested loop number.
-Expected Output:
-
-1
-22
-333
-4444
-55555
-666666
-7777777
-88888888
-999999999
+    
+    """Expected Output:
+    1
+    22
+    333
+    4444
+    55555
+    666666
+    7777777
+    88888888
+    999999999"""
 
 79.
 
