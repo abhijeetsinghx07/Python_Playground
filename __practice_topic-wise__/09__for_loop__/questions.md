@@ -471,7 +471,81 @@
     Expected output
     Result: Hello This Is Pythonlobby
 
-100. 
+100. Python for loop to iterate through the letters in a word
+
+101. Python for loop using the range() function
+
+102. Python for loop to iterate through a list
+
+103. Python for loop to iterate through a dictionary
+
+104. Python for loop using the zip() function for parallel iteration
+
+105. Iterate list using else statement inside a for loop in Python
+     flowers = ['Jasmine','Lotus','Rose','Sunflower']
+
+106. Iterate list using break statement inside a for loop in Python
+
+107. Iterate list using continue statement inside a for loop in Python
+
+108. Python for loop to count the number of elements in a list
+
+109. Python for loop to find the sum of all numbers in a list
+
+110. Python for loop to find the multiples of 5 in a list
+     numbers = [2,5,6,10,15,20,25]
+
+111. Python for loop to copy elements from one list to another
+
+112. Python for loop to find the maximum element in a list
+
+113. Python for loop to find the minimum element in a list
+
+114. Python for loop to print the multiples of 3 using range() function
+
+115. Python for loop to print the multiples of 5 using range() function
+
+116. Python for loop to print the numbers in reverse order using range() function
+
+117.
+
+118.
+
+119.
+
+120.
+
+121.
+
+122.
+123.
+124.
+125.
+126.
+127.
+128.
+129.
+130.
+131.
+132.
+133.
+134.
+135.
+136.
+137.
+138.
+139.
+140.
+141.
+142.
+143.
+144.
+145.
+146.
+147.
+148.
+149.
+150.
 
 
 
