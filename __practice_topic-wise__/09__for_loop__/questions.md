@@ -319,9 +319,171 @@
     88888888
     999999999"""
 
-79.
+79. Write a program in Python to display the Factorial of a number.
+Hint 1 
+Input : 5
 
-80.
+Expected output 
+Factorial is 120
+
+Hint 1 
+Input : 6
+
+Expected output 
+Factorial is 720
+
+
+80. Write a program in Python to reverse a word.
+Input a word to reverse : python
+
+Expected output 
+Result: nohtyp
+
+81. Write a Python program to reverse a number.
+Input a number to reverse : 43521
+
+Expected output 
+Result: 12534
+
+82. Write a program to print n natural number in descending order.
+Enter a range : 10
+
+Expected output 
+Result: 10  9  8  7  6  5  4  3  2  1
+
+83. Write a program to display the first 7 multiples of 7.
+Use if and for loop with break
+
+Expected output 
+Result: 0  7  14  21  28  35  42  49
+
+84. Write a program that appends the square of each number to a new list.
+Given x = [2,3,4,5,6,7,8]
+
+Expected output 
+Result: [4, 9, 16, 25, 36, 49, 64]
+
+85. WAP to separate positive and negative number from a list.
+Given x = [23, 4, -6, 23, -9, 21, 3, -45, -8]
+
+Expected output 
+Result:
+Positive: [23, 4, 23, 21, 3] Negative: [-6, -45, -9, -8]
+
+86. Write a program that appends the type of elements from a list.
+Given x = [23, ‘Python’, 23.98]
+
+Expected output 
+Result:
+[<class ‘int’>,<class ‘str’>,<class ‘float’>]
+
+87. Write a program to filter even and odd number from a list.
+Given x = [10, 23, 24, 35, 65, 78, 90]
+
+Expected output 
+Even numbers: [10, 24, 78, 90] Odd numbers: [23, 35, 65]
+
+88. Write a program to fetch only even values from a dictionary.
+dic = {‘val1’:10, ‘val2’:20, ‘val3’:23, ‘val4’:22 }
+
+Expected output 
+Result : 10 20 22
+
+89. Write a program to reverse a string in python.
+
+Input: python
+
+Expected output
+Result is: nohtyp
+
+90. Write a program to count vowels and consonants in a string.
+
+Input: python
+
+Expected output
+Vowels count is: 1
+Consonant count is: 5
+
+91. Write a program to remove duplicates in a string.
+
+Input: pythonlobby
+
+Expected output
+Result is: p y t h o n l b
+
+92. Write a program to count the number of letters in a word.
+Input: pythonlobby
+
+Expected output
+Result is: 11
+
+93. Python program to count the occurrence of each character in a word.
+
+Given x = programm
+
+Expected output
+Occurrence of each characters is :
+{‘P’: 1, ‘r’: 2, ‘o’: 1, ‘g’: 1, ‘a’: 1, ‘m’: 2}
+
+94. Python program to convert lower letter to upper and upper letter to lower in a string.
+
+Inut: PrOgRaMM
+
+Expected output
+Result is: pRoGrAmm
+
+95. Python program to search a specific word in a string.
+
+Input:
+Enter a String:  I am a boy
+Enter a word to search: boy
+
+Expected output
+boy exists in string
+
+
+Input:
+Enter a String:  I am a boy
+Enter a word to search: girl
+
+Expected output
+girl not exists in string
+
+96. Write a python program to sort letters of word by lower to upper case format.
+
+Input:
+Enter a String:  pytHOnloBBy
+
+Expected output
+Result: p y t n l o y H O B B
+
+97. Write a program in Python to count lower, upper, numeric and special characters in a string.
+
+Given x = @pyThOnlobb!Y34
+
+Expected output
+Numeric counts 2
+Lower counts 8
+Upper counts 3
+Special counts 2
+
+98. Write a program in Python to remove an empty character from a list sequence.
+
+Given n = [“name”,”age”,””,”hello”]
+
+Expected output
+Result:  [‘name’, ‘age’, ‘hello’]
+
+99. Python program to convert all the starting letter of a word in upper case format or in the title format.
+Given n = “hello this is pythonlobby”
+
+Expected output
+Result: Hello This Is Pythonlobby
+
+100. 
+
+
+
 
 
 
