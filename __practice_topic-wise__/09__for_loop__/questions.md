@@ -507,52 +507,83 @@
 
 116. Python for loop to print the numbers in reverse order using range() function
 
-117.
+117. Python program to convert the month name to a number of days.
 
-118.
+118. Python program to check the validity of password input by users.
 
-119.
+119. Write a Python program that iterates the integers from 1 to 25.
 
-120.
+120. Python program that accepts a string and calculates the number of digits and letters.
 
-121.
+121. Python program to find the factorial of a given number.
 
-122.
-123.
-124.
-125.
-126.
-127.
-128.
-129.
-130.
-131.
-132.
-133.
-134.
-135.
-136.
-137.
-138.
-139.
-140.
-141.
-142.
-143.
-144.
-145.
-146.
-147.
-148.
-149.
-150.
+122. Python program to get the Fibonacci series between 0 to 50.
 
+123. Python program to display all numbers within a range except the prime numbers.
 
+124. Python program to count the number of even and odd numbers from a series of numbers.
 
+125. Python program to check if a given number is an Armstrong number
 
+126. Python program that accepts a word from the user and reverses it.
 
+127. Python program to check if the given string is a palindrome.
 
+128. Python program to count the total number of digits in a number.
 
+129. Python program to display numbers from a list using a for loop.
+
+130. Python program to print a multiplication table of a given number
+
+131. Python program to calculate the sum of all the odd numbers within the given range.
+
+132. Python program to calculate the sum of all numbers from 1 to a given number.
+
+133. Python program to print all the even numbers within the given range.
+
+134. Calculate the sum of squares from 1 to 5.
+
+135. Print the squares of numbers from 1 to 10 using the range() function.
+
+136. Check if a number is prime.
+
+137. Generate a random password of a given length.
+
+138. Calculate the sum of numbers until a non-digit is encountered.
+
+139. Print numbers from 10 to 1 in reverse order using the range() function.
+
+140. Print numbers from 1 to 100, but skip multiples of 5 using the range() function.
+
+141. Print the sum of even numbers from 1 to 50 using the range() function
+
+142. Calculate the product of numbers from 1 to 10 using the range() function.
+
+143. Print numbers from 1 to 20, but replace multiples of 3 with “Fizz” and multiples of 5 with “Buzz”.
+
+144. Calculate the sum of digits of a number until a single-digit number is obtained.
+
+145. Check if a number is a palindrome.
+
+146. Find the greatest common divisor (GCD) of two numbers.
+
+147. Convert a decimal number to binary.
+
+148. Find the factorial of a number using recursion.
+
+149. Find the sum of natural numbers using recursion.
+
+150. Check if a given string is a palindrome.
+
+151. Find the square of a number without using the ** operator.
+
+152. Calculate the exponential of a number.
+
+153. Find the length of a string without using the len() function.
+
+154. Calculate the sum of the first n natural numbers using the formula.
+
+155. Generate a list of square numbers up to a specified limit.
 
 
 
