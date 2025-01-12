@@ -114,8 +114,7 @@ These questions cover a variety of scenarios to improve your understanding and a
 
 51. Generate a list of prime numbers between 50 and 100.
 
-52. Create a list of tuples, where each tuple contains a number and its binary representation from 1 to 
-10.
+52. Create a list of tuples,where each tuple contains a number and its binary representation from 1 to 10.
 
 53. Generate a list of numbers from 1 to 50 that are divisible by their digit sum.
 
