@@ -1,4 +1,4 @@
-```markdown
+
 
 Here’s **100 list comprehension practice questions**, divided into **three levels**: Easy, Medium, and Hard. 
 
@@ -221,4 +221,3 @@ of 5 with `"Buzz"`.
 ---
 
 
-```
