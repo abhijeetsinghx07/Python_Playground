@@ -1,4 +1,4 @@
-
+```markdown
 
 Here’s **100 list comprehension practice questions**, divided into **three levels**: Easy, Medium, and Hard. 
 
@@ -6,7 +6,7 @@ These questions cover a variety of scenarios to improve your understanding and a
 
 ---
 
-### **Easy (1–40)**
+### Easy 
 
 1. Create a list of squares of numbers from 1 to 10.
 
@@ -90,7 +90,7 @@ These questions cover a variety of scenarios to improve your understanding and a
 
 ---
 
-### **Medium (41–80)**
+### Medium 
 
 41. Generate a list of all combinations of two characters from `"ABCD"`.
 
@@ -176,7 +176,7 @@ of 5 with `"Buzz"`.
 
 ---
 
-### **Hard (81–100)**
+### Hard 
 
 81. Create a flattened list from a 2D list using list comprehension.
 
@@ -221,3 +221,4 @@ of 5 with `"Buzz"`.
 ---
 
 
+```
