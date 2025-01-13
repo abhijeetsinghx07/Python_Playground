@@ -585,6 +585,10 @@
 
 155. Generate a list of square numbers up to a specified limit.
 
+156. Extract and print the repeated values across all the lists in the given dictionary
+
+    input = {'a': [1, 2, 3], 'b': [4, 2, 5], 'c': [8, 2, 9], 'd': [20, 3, 2]}
+
 
 
 ```

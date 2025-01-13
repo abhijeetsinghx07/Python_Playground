@@ -504,7 +504,7 @@ Write a program to clear the screen or terminal.
 
 104. Write a program to get the effective group id, effective user id, real group id, and a list of supplemental group ids associated with the current process.
 
-Note: Availability: Unix.
+    Note: Availability: Unix.
 
 
 105. Write a program to get the users environment.
@@ -560,11 +560,11 @@ Note: Availability: Unix.
 
 122. Write a program to empty a variable without destroying it.
 
-Sample data: n=20
-d = {"x":200}
+        Sample data: n=20
+        d = {"x":200}
 
-Expected Output : 0
-{}
+        Expected Output : 0
+        {}
 
 
 
@@ -605,8 +605,8 @@ Expected Output : 0
 
 
 135. Write a program to print a variable without spaces between values.
-Sample value : x =30
-Expected output : Value of x is "30"
+        Sample value : x =30
+        Expected output : Value of x is "30"
 
 
 136. Write a program to find files and skip directories in a given directory.
@@ -622,33 +622,33 @@ Expected output : Value of x is "30"
 
 
 140. Write a program to convert an integer to binary that keeps leading zeros.
-Sample data : x=12
-Expected output : 00001100
-0000001100
+        Sample data : x=12
+        Expected output : 00001100
+        0000001100
 
 
 141. Write a program to convert decimal to hexadecimal.
-Sample decimal number: 30, 4
-Expected output: 1e, 04
+        Sample decimal number: 30, 4
+        Expected output: 1e, 04
 
 
 142. Write a program to check if every consecutive sequence of zeroes is followed by a consecutive sequence of ones of same length in a given string. Return True/False.
 
-Original sequence: 01010101
-Check if every consecutive sequence of zeroes is followed by a consecutive sequence of ones in the said string:
-True
+        Original sequence: 01010101
+        Check if every consecutive sequence of zeroes is followed by a consecutive sequence of ones in the said string:
+        True
 
-Original sequence: 00
-Check if every consecutive sequence of zeroes is followed by a consecutive sequence of ones in the said string:
-False
+        Original sequence: 00
+        Check if every consecutive sequence of zeroes is followed by a consecutive sequence of ones in the said string:
+        False
 
-Original sequence: 000111000111
-Check if every consecutive sequence of zeroes is followed by a consecutive sequence of ones in the said string:
-True
+        Original sequence: 000111000111
+        Check if every consecutive sequence of zeroes is followed by a consecutive sequence of ones in the said string:
+        True
 
-Original sequence: 00011100011
-Check if every consecutive sequence of zeroes is followed by a consecutive sequence of ones in the said string:
-False
+        Original sequence: 00011100011
+        Check if every consecutive sequence of zeroes is followed by a consecutive sequence of ones in the said string:
+        False
 
 
 143. Write a program to determine if the Python shell is executing in 32-bit or 64-bit mode on the operating system.
@@ -699,28 +699,28 @@ Note: Do not use built-in functions.
 
 161. Write a Python program to check the sum of three elements (each from an array) from three arrays is equal to a target value. Print all those three-element combinations.
 
-Sample data:
-/*
-X = [10, 20, 20, 20]
-Y = [10, 20, 30, 40]
-Z = [10, 30, 40, 20]
-target = 70
-*/
+        Sample data:
+        /*
+        X = [10, 20, 20, 20]
+        Y = [10, 20, 30, 40]
+        Z = [10, 30, 40, 20]
+        target = 70
+        */
 
 162. Write a Python program that generates a list of all possible permutations from a given collection of distinct numbers.
 
 163. Write a Python program to get all possible two-digit letter combinations from a 1-9 digit string.
-string_maps = {
-"1": "abc",
-"2": "def",
-"3": "ghi",
-"4": "jkl",
-"5": "mno",
-"6": "pqrs",
-"7": "tuv",
-"8": "wxy",
-"9": "z"
-}
+        string_maps = {
+        "1": "abc",
+        "2": "def",
+        "3": "ghi",
+        "4": "jkl",
+        "5": "mno",
+        "6": "pqrs",
+        "7": "tuv",
+        "8": "wxy",
+        "9": "z"
+        }
 
 164. Write a Python program to add two positive integers without using the '+' operator.
 
@@ -733,19 +733,19 @@ Note: Use bit wise operations to add two numbers.
 167. Write a Python program to get all strobogrammatic numbers that are of length n.
 A strobogrammatic number is a number whose numeral is rotationally symmetric, so that it appears the same when rotated 180 degrees. In other words, the numeral looks the same right-side up and upside down (e.g., 69, 96, 1001).
 
-For example,
-Given n = 2, return ["11", "69", "88", "96"].
-Given n = 3, return ['818', '111', '916', '619', '808', '101', '906', '609', '888', '181', '986', '689']
+        For example,
+        Given n = 2, return ["11", "69", "88", "96"].
+        Given n = 3, return ['818', '111', '916', '619', '808', '101', '906', '609', '888', '181', '986', '689']
 
 168. Write a Python program to find the median among three given numbers.
 
 169. Write a Python program that finds the value of n when n degrees of number 2 are written sequentially on a line without spaces between them.
 
 170. Write a Python program to find the number of zeros at the end of a factorial of a given positive number.
-Range of the number(n): (1 <= n <= 2*109).
+        Range of the number(n): (1 <= n <= 2*109).
 
 171. Write a Python program to find the number of notes (Samples of notes: 10, 20, 50, 100, 200, 500) against an amount.
-Range - Number of notes(n) : n (1 <= n <= 1000000).
+        Range - Number of notes(n) : n (1 <= n <= 1000000).
 
 172. Write a Python program to create a sequence where the first four members of the sequence are equal to one. Each successive term of the sequence is equal to the sum of the four previous ones. Find the Nth member of the sequence.
 
@@ -757,31 +757,429 @@ Range - Number of notes(n) : n (1 <= n <= 1000000).
 
 176. Write a Python program to compute the summation of the absolute difference of all distinct pairs in a given array (non-decreasing order).
 
-Sample array: [1, 2, 3]
-Then all the distinct pairs will be:
-1 2
-1 3
-2 3
+        Sample array: [1, 2, 3]
+        Then all the distinct pairs will be:
+        1 2
+        1 3
+        2 3
 
 177. Write a Python program to find the type of the progression (arithmetic progression / geometric progression) and the next successive member of the three successive members of a sequence.
 
-According to Wikipedia, an arithmetic progression (AP) is a sequence of numbers such that the difference of any two successive members of the sequence is a constant. For instance, the sequence 3, 5, 7, 9, 11, 13, . . . is an arithmetic progression with common difference 2. For this problem, we will limit ourselves to arithmetic progression whose common difference is a non-zero integer.
+        According to Wikipedia, an arithmetic progression (AP) is a sequence of numbers such that the difference of any two successive members of the sequence is a constant. For instance, the sequence 3, 5, 7, 9, 11, 13, . . . is an arithmetic progression with common difference 2. For this problem, we will limit ourselves to arithmetic progression whose common difference is a non-zero integer.
 
-On the other hand, a geometric progression (GP) is a sequence of numbers where each term after the first is found by multiplying the previous one by a fixed non-zero number called the common ratio. For example, the sequence 2, 6, 18, 54, . . . is a geometric progression with common ratio 3. For this problem, we will limit ourselves to geometric progression whose common ratio is a non-zero integer.
+        On the other hand, a geometric progression (GP) is a sequence of numbers where each term after the first is found by multiplying the previous one by a fixed non-zero number called the common ratio. For example, the sequence 2, 6, 18, 54, . . . is a geometric progression with common ratio 3. For this problem, we will limit ourselves to geometric progression whose common ratio is a non-zero integer.
 
 178. Write a Python program to print the length of the series and the series from the given 3rd term, 3rd last term and the sum of a series.
 
-Sample Data:
-Input third term of the series: 3
-Input 3rd last term: 3
-Input Sum of the series: 15
-Length of the series: 5
-Series:
-1 2 3 4 5
+        Sample Data:
+        Input third term of the series: 3
+        Input 3rd last term: 3
+        Input Sum of the series: 15
+        Length of the series: 5
+        Series:
+        1 2 3 4 5
 
 179. Write a Python program to find common divisors between two numbers in a given pair.
 
 180. Write a Python program to reverse the digits of a given number and add them to the original. Repeat this procedure if the sum is not a palindrome.
 
-Note: A palindrome is a word, number, or other sequence of characters which reads the same backward as forward, such as madam or racecar.
+        Note: A palindrome is a word, number, or other sequence of characters which reads the same backward as forward, such as madam or racecar.
+
+181. Write a Python program to count the number of carry operations for each addition problem.
+       
+       According to Wikipedia " In elementary arithmetic, a carry is a digit that is transferred from one column of digits to another column of more significant digits. It is part of the standard algorithm to add numbers together by starting with the rightmost digits and working to the left. For example, when 6 and 7 are added to make 13, the "3" is written to the same column and the "1" is carried to the left".
+
+182. Write a Python program to find the heights of the top three buildings in descending order from eight given buildings.
+        Input:
+        0 <= height of building (integer) <= 10,000
+        Input the heights of eight buildings:
+        25
+        35
+        15
+        16
+        30
+        45
+        37
+        39
+        Heights of the top three buildings:
+        45
+        39
+        37
+
+183. Write a Python program to compute the digit number of the sum of two given integers.
+        Input:
+        Each test case consists of two non-negative integers x and y which are separated by a space in a line.
+        0 <= x, y <= 1,000,000
+        Input two integers(a b):
+        5 7
+        Sum of two integers a and b.:
+        2
+
+184. Write a Python program to check whether three given lengths (integers) of three sides form a right triangle. Print "Yes" if the given sides form a right triangle otherwise print "No".
+        Input:
+        Integers separated by a single space.
+        1 <= length of the side <= 1,000
+        Input three integers(sides of a triangle)
+        8 6 7
+        No
+
+185. Write a Python program which solve the equation:
+        ax+by=c
+        dx+ey=f
+        Print the values of x, y where a, b, c, d, e and f are given.
+        Input:
+        a,b,c,d,e,f separated by a single space.
+        (-1,000 <= a,b,c,d,e,f <= 1,000)
+        Input the value of a, b, c, d, e, f:
+        5 8 6 7 9 4
+        Values of x and y:
+        -2.000 2.000
+
+186. Write a Python program to compute the amount of debt in n months. Each month, the loan adds 5% interest to the $100,000 debt and rounds to the nearest 1,000 above.
+        Input:
+        An integer n (0 <= n <= 100)
+        Input number of months: 7
+        Amount of debt: $144000
+
+187. Write a Python program that reads an integer n and finds the number of combinations of a,b,c and d (0 = a,b,c,d = 9) where (a + b + c + d) will be equal to n.
+        Input:
+        n (1 <= n <= 50)
+        Input the number(n): 15
+        Number of combinations: 592
+
+188. Write a Python program to print the number of prime numbers that are less than or equal to a given number.
+        Input:
+        n (1 <= n <= 999,999)
+        Input the number(n): 35
+        Number of prime numbers which are less than or equal to n.: 11
+
+189. Write a program to compute the radius and the central coordinate (x, y) of a circle which is constructed from three given points on the plane surface.
+        Input:
+        x1, y1, x2, y2, x3, y3 separated by a single space.
+        Input three coordinate of the circle:
+        9 3 6 8 3 6
+        Radius of the said circle:
+        3.358
+        Central coordinate (x, y) of the circle:
+        6.071 4.643
+
+190. Write a Python program to check if a point (x,y) is in a triangle or not. A triangle is formed by three points.
+        Input:
+        x1,y1,x2,y2,x3,y3,xp,yp separated by a single space.
+        Input three coordinate of the circle:
+        9 3 6 8 3 6
+        Radius of the said circle:
+        3.358
+        Central coordinate (x, y) of the circle:
+        6.071 4.643
+
+191. Write a Python program to compute and print the sum of two given integers (greater or equal to zero). In the event that the given integers or the sum exceed 80 digits, print "overflow".
+        Input first integer:
+        25
+        Input second integer:
+        22
+        Sum of the two integers: 47
+
+192. Write a Python program that accepts six numbers as input and sorts them in descending order.
+Input:
+        Input consists of six numbers n1, n2, n3, n4, n5, n6 (-100000 <= n1, n2, n3, n4, n5, n6 <= 100000). The six numbers are separated by a space.
+        Input six integers:
+        15 30 25 14 35 40
+        After sorting the said integers:
+        40 35 30 25 15 14
+
+193. Write a Python program to test whether two lines PQ and RS are parallel. The four points are P(x1, y1), Q(x2, y2), R(x3, y3), S(x4, y4).
+        Input:
+        x1,y1,x2,y2,x3,y3,xp,yp separated by a single space
+        Input x1,y1,x2,y2,x3,y3,xp,yp:
+        2 5 6 4 8 3 9 7
+        PQ and RS are not parallel
+
+194. Write a Python program to find the maximum sum of a contiguous subsequence from a given sequence of numbers a1, a2, a3, ... an. A subsequence of one element is also a continuous subsequence.
+        Input:
+        You can assume that 1 <= n <= 5000 and -100000 <= ai <= 100000.
+        Input numbers are separated by a space.
+        Input 0 to exit.
+        Input number of sequence of numbers you want to input (0 to exit):
+        3
+        Input numbers:
+        2
+        4
+        6
+        Maximum sum of the said contiguous subsequence: 12
+        Input number of sequence of numbers you want to input (0 to exit):
+        0
+
+195. There are two circles C1 with radius r1, central coordinate (x1, y1) and C2 with radius r2 and central coordinate (x2, y2).
+        Write a Python program to test the followings -
+
+        "C2 is in C1" if C2 is in C1
+        "C1 is in C2" if C1 is in C2
+        "Circumference of C1 and C2 intersect" if circumference of C1 and C2 intersect
+        "C1 and C2 do not overlap" if C1 and C2 do not overlap and
+        "Circumference of C1 and C2 will touch" if C1 and C2 touch
+        Input:
+        Input numbers (real numbers) are separated by a space.
+        Input x1, y1, r1, x2, y2, r2:
+        5 4 2 3 9 2
+        C1 and C2 do not overlap
+        Input x1, y1, r1, x2, y2, r2:
+        5 4 3 5 10 3
+        Circumference of C1 and C2 will touch
+        Input x1, y1, r1, x2, y2, r2:
+        6 4 3 10 4 2
+        Circumference of C1 and C2 intersect
+        Input x1, y1, r1, x2, y2, r2:
+        5 4 3 5 4 2
+        C2 is in C1
+        Input x1, y1, r1, x2, y2, r2:
+        5 4 2 5 4 3
+        C1 is in C2
+
+196. Write a Python program that reads a date (from 2016/1/1 to 2016/12/31) and prints the day of the date. Jan. 1, 2016, is Friday. Note that 2016 is a leap year.
+        Input:
+        Two integers m and d separated by a single space in a line, m ,d represent the month and the day.
+        Input month and date (separated by a single space):
+        5 15
+        Name of the date: Sunday
+
+197. Write a Python program that reads text (only alphabetical characters and spaces) and prints two words. The first word is the one that appears most often in the text. The second one is the word with the most letters.
+        Note: A word is a sequence of letters which is separated by the spaces.
+
+        Input:
+        A text is given in a line with following condition:
+        a. The number of letters in the text is less than or equal to 1000.
+        b. The number of letters in a word is less than or equal to 32.
+        c. There is only one word which is arise most frequently in given text.
+        d. There is only one word which has the maximum number of letters in given text.
+        Input text: Thank you for your comment and your participation.
+        Output: your participation.
+
+198. Write a Python program that reads n digits (given) chosen from 0 to 9 and prints the number of combinations where the sum of the digits equals another given number (s). Do not use the same digits in a combination.
+        Input:
+        Two integers as number of combinations and their sum by a single space in a line. Input 0 0 to exit.
+        Input number of combinations and sum, input 0 0 to exit:
+        5 6
+        2 4
+        0 0
+        2
+
+199. Write a Python program that reads the two adjoining sides and the diagonal of a parallelogram and checks whether the parallelogram is a rectangle or a rhombus.
+        According to Wikipedia-
+        parallelograms: In Euclidean geometry, a parallelogram is a simple (non-self-intersecting) quadrilateral with two pairs of parallel sides. The opposite or facing sides of a parallelogram are of equal length and the opposite angles of a parallelogram are of equal measure.
+        rectangles: In Euclidean plane geometry, a rectangle is a quadrilateral with four right angles. It can also be defined as an equiangular quadrilateral, since equiangular means that all of its angles are equal (360°/4 = 90°). It can also be defined as a parallelogram containing a right angle.
+        rhombus: In plane Euclidean geometry, a rhombus (plural rhombi or rhombuses) is a simple (non-self-intersecting) quadrilateral whose four sides all have the same length. Another name is equilateral quadrilateral, since equilateral means that all of its sides are equal in length. The rhombus is often called a diamond, after the diamonds suit in playing cards which resembles the projection of an octahedral diamond, or a lozenge, though the former sometimes refers specifically to a rhombus with a 60° angle, and the latter sometimes refers specifically to a rhombus with a 45° angle.
+        Input:
+        Two adjoined sides and the diagonal.
+        1 <= ai, bi, ci <= 1000, ai + bi > ci
+        Input two adjoined sides and the diagonal of a parallelogram (comma separated):
+        3,4,5
+        This is a rectangle.
+
+200. Write a Python program to replace a string "Python" with "Java" and "Java" with "Python" in a given string.
+        Input:
+        English letters (including single byte alphanumeric characters, blanks, symbols) are given on one line. The length of the input character string is 1000 or less.
+        Input a text with two words 'Python' and 'Java'
+        Python is popular than Java
+        Java is popular than Python
+
+201.
+
+202.
+
+203.
+
+204.
+
+205.
+
+206.
+
+207.
+
+208.
+
+209.
+
+210.
+
+211.
+
+212.
+
+213.
+
+214.
+
+215.
+
+216.
+
+217.
+
+218.
+
+219.
+
+220.
+
+221.
+
+222.
+
+223.
+
+224.
+
+225.
+
+226.
+
+227.
+
+228.
+
+229.
+
+230.
+
+231.
+
+232.
+
+233.
+
+234.
+
+235.
+
+236.
+
+237.
+
+238.
+
+239.
+
+240.
+
+241.
+
+242.
+
+243.
+
+244.
+
+245.
+
+246.
+
+247.
+
+248.
+
+249.
+
+250.
+
+251.
+
+252.
+
+253.
+
+254.
+
+255.
+
+256.
+
+257.
+
+258.
+
+259.
+
+260.
+
+261.
+
+262.
+
+263.
+
+264.
+
+265.
+
+266.
+
+267.
+
+268.
+
+269.
+
+270.
+
+271.
+
+272.
+
+273.
+
+274.
+
+275.
+
+276.
+
+277.
+
+278.
+
+279.
+
+280.
+
+281.
+
+282.
+
+283.
+
+284.
+
+285.
+
+286.
+
+287.
+
+288.
+
+289.
+
+290.
+
+291.
+
+292.
+
+293.
+
+294.
+
+295.
+
+296.
+
+297.
+
+298.
+
+299.
+
+300.
 ```
