@@ -269,15 +269,14 @@ These questions avoid pattern programming and focus on practical, real-world sce
     In=['hello',227,3.4,"last", 189,34] 
     Out-[722,981,43]
 
+```
+
 ---
 
 ## Challenging
 
 ---
-
-
 Challenging competition-level question emphasize logic building and require advanced use of nested loops for solving real-world scenarios. 
-
 ---
 
 ### 1. Matrix Border Sum
@@ -474,6 +473,3 @@ Minimum Moves: 6
 - Use BFS to track visited positions and find the shortest path.
 
 ---
-
-
-```
