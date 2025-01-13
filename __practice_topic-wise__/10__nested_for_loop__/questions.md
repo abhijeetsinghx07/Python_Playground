@@ -229,45 +229,45 @@ These questions avoid pattern programming and focus on practical, real-world sce
 ---
 
 101. Wap to get the following output. without length function.
-    S='power star' 
-    Out-{'power':5,'star':4}
+        S='super star' 
+        Out-{'super':5,'star':4}
 
 102. Wap to get the following output.
-    S='power star'
-    Out={'power':2, 'star':1} (no of vowels is key)
+        S='super star'
+        Out={'super':2, 'star':1} (no of vowels is key)
 
 103. Wap to get the following output.
-    S='kabab is love'
-    Out={"kabab':["babak',2, 'kbb'], 'is':['si',1,'i'], 'love': ['evol',2,'lv']} 
-    [reverse,no of vowels,char at even index]
+        S='kabab is love'
+        Out={"kabab':["babak',2, 'kbb'], 'is':['si',1,'i'], 'love': ['evol',2,'lv']} 
+        [reverse,no of vowels,char at even index]
 
 104. Wap to get the following output.
-    S='kabab is love'
-    Out={'kb': ('kbb', 3, 'bbk'), 'is': ('s',1,'s'), 'le':("lv',2,'vl')}
-    {1st+last char: (consonant,no of consonant,rev of consonant)}
+        S='kabab is love'
+        Out={'kb': ('kbb', 3, 'bbk'), 'is': ('s',1,'s'), 'le':("lv',2,'vl')}
+        {1st+last char: (consonant,no of consonant,rev of consonant)}
 
 105. Wap to get the following output.
-    In [100,200,35,40,60]
-    Out [335,235,400,395,375] (total sum-value)
+        In [100,200,35,40,60]
+        Out [335,235,400,395,375] (total sum-value)
 
 106. Wap to get the following output.
-    In='bacbcaabbaa'
-    Out="b4a5c2'
+        In='bacbcaabbaa'
+        Out="b4a5c2'
 
 107. Wap to get the following output
-    In-[100,200,50,400,300]
-    N=300
-    Out-[[100,200],[300]]
+        In-[100,200,50,400,300]
+        N=300
+        Out-[[100,200],[300]]
 
 108. Wap to check whether the number is strong or not.
 
 109. Wap to get the following output.
-    In={10: 'star',20: 'bye',30:'moon',40:"apple'} 
-    Out={10:'a',20:'e',30:'oo',40:"ae"}
+        In={10: 'star',20: 'bye',30:'moon',40:"apple'} 
+        Out={10:'a',20:'e',30:'oo',40:"ae"}
 
 110. Wap to get the following output.
-    In=['hello',227,3.4,"last", 189,34] 
-    Out-[722,981,43]
+        In=['hello',227,3.4,"last", 189,34] 
+        Out-[722,981,43]
 
 ```
 
