@@ -1,4 +1,6 @@
-print("Welcome to my Quiz Gam!")
+# Quiz Game :
+
+print("Welcome to my Quiz Game!")
 
 playing = input("You want to play? ")
 
@@ -12,15 +14,13 @@ answer = input("What does CPU stand for? ")
 if answer.lower() == 'central processing unit':
     print("Correct Answer! :)\n")
     score+=1
-
 else:
     print("Wrong Answer! ):\n")
 
 answer = input("What does ALU stand for? ")
-if answer.lower() == 'arithmatic logic unit':
+if answer.lower() == 'arithmetic logic unit ':
     print("Correct Answer:)\n")
     score+=1
-
 else:
     print("Wrong Answer! ):\n")
 
@@ -29,16 +29,14 @@ answer = input("What does RAM stand for? ")
 if answer.lower() == 'random access memory':
     print("Correct Answer:)\n")
     score+=1
-
 else:
     print("Wrong Answer! ):\n")
 
 
-answer = input("What does GPU stand for? ")
-if answer.lower() == 'graphics processing unit':
+answer = input("What does BIOS stand for? ")
+if answer.lower() == 'basic input output system':
     print("Correct Answer:)\n")
     score+=1
-
 else:
     print("Wrong Answer! ):\n")
 
