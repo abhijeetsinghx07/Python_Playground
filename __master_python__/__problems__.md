@@ -2057,8 +2057,6 @@ False
 
 293. Write a Python program to print Emojis using Unicode characters or CLDR (Common Locale Data Repository) short names.
 
-![alt text](image.png)
-
 294. Write a Python program to convert integer to string.
 Sample Input:
 language = "Python"
