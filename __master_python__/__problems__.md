@@ -1547,7 +1547,6 @@ It has been proven that there are only 88 narcissistic numbers (in the decimal s
 115,132,219,018,763,992,565,095,597,973,971,522,401
 has 39 digits.
 
-Ref.: //https://bit.ly/2qNYxo2
 Sample Input:
 (153)
 (370)
