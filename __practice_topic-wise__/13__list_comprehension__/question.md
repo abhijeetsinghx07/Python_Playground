@@ -1,6 +1,6 @@
 ```markdown
 
-Here’s **100 list comprehension practice questions**, divided into **three levels**: Easy, Medium, and Hard. 
+Here’s 100 list comprehension practice questions, divided into three levels: Easy, Medium, and Hard. 
 
 These questions cover a variety of scenarios to improve your understanding and application of list comprehensions.
 
