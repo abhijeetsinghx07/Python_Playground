@@ -2888,15 +2888,41 @@ Expected output:
      The original list is : [[4, 5, 6], [2, 4, 5], [6, 7, 5]]
      The list after pairing is : [[[4, 6], [5, 6]], [[2, 5], [4, 5]], [[6, 5], [7, 5]]]
 
-316. 
+316. Write a Python function to find the longest common sub-sequence in two lists.
 
-317.
+317. Write a Python program to find the first non-repeated element in a list.
 
-318.
+318. Write a Python function to sort a list of dictionaries based on values of a key.
 
-319.
+319. Write a Python program to find all the pairs in a list whose sum is equal to a 
+     given value.
 
-320.
+320. Write a Python a function to implement a LRU cache.\
+
+    From Wikipedia -
+    Least recently used (LRU)
+    Discards the least recently used items first. This algorithm requires keeping track of what was used when, which is expensive if one wants to make sure the algorithm always discards the least recently used item. General implementations of this technique require keeping "age bits" for cache-lines and track the "Least Recently Used" cache-line based on age-bits. In such an implementation, every time a cache-line is used, the age of all other cache-lines changes. LRU is actually a family of caching algorithms with members including 2Q by Theodore Johnson and Dennis Shasha, and LRU/K by Pat O'Neil, Betty O'Neil and Gerhard Weikum.
+
+321. Write a Python function to reverse a list at a specific location.
+
+322. Write a Python function find the length of the longest increasing sub-sequence in a list.
+
+323. Write a Python function that finds all the permutations of the members of a list.
+
+324. Write a Python function to find the kth smallest element in a list.
+
+325. Write a Python function to find the kth largest element in a list.
+
+326. Write a Python function to check if a list is a palindrome or not. Return true otherwise false.
+
+327. Write a Python a function to find the union and intersection of two lists.
+
+328. Write a Python function to remove duplicates from a list while preserving the order.
+
+329. Write a Python a function to find the maximum sum sub-sequence in a list. Return the maximum value.
+
+330. Write a Python a function to find the minimum sum sub-sequence in a list. Return the sub-sequence.
+
 
 
 
