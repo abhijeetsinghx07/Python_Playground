@@ -2725,4 +2725,179 @@ Sample Data:
 [0, -3, -5, -7, -8] -> [[-3, 0], [-8, -5]]
 ([1, 2, 3, 4, 5]) -> [[1, 4], [2, 5]]
 ([100, 102, 103, 114, 115]) -> [[100, 103]]
+
+290. Write a program in Python to remove repetitive items from a list.
+ 
+    Given num = [2,3,4,5,2,6,3,2]
+
+291. Write a program to enter or append n numbers in a list.
+
+    Input: 2
+    Enter element at index 1: 2
+    Enter element at index 2: 4
+
+292. Write a program to enter or append n numbers in a list.
+
+    Input: 2
+    Enter element at index 1: 2
+    Enter element at index 2: 4
+
+293. Write a program to get the maximum number from a list.
+   
+    Given num = [2,3,2,4,7,8]
+
+
+294. Write a program to reverse a list in Python without taking new variable.
+ 
+    num = [23, 34, ‘hello’, 32, 56]
+
+
+295. Write a program to show all armstrong number from 10 to 2500 in a single list.
+
+296. Write a program to show all prime number from 1 to 2500 in a single list.
+
+297. Write a program to show all perfect number from 1 to 2500 in a single list.
+
+298. Write a program to show all palindrome number from 1 to 2500 in a single list.
+
+300. Write a program to sort all integer value in ascending order without taking new variable.
+
+301. Concatenate two lists index-wise
+
+    Write a program to add two lists index-wise. Create a new list that contains the 0th index item from both the list, then the 1st index item, and so on till the last element. any leftover items will get added at the end of the new list.
+
+302. Concatenate two lists in the following order
+
+        list1 = ["Hello ", "take "]
+        list2 = ["Dear", "Sir"]
+        
+        Expected output:
+        ['Hello Dear', 'Hello Sir', 'take Dear', 'take Sir']
+
+303.  Iterate both lists simultaneously
+Given a two Python list. Write a program to iterate both lists simultaneously and display items from list1 in original order and items from list2 in reverse order.
+
+Given
+
+list1 = [10, 20, 30, 40]
+list2 = [100, 200, 300, 400]
+Expected output:
+
+10 400
+20 300
+30 200
+40 100
+
+
+
+304. Remove empty strings from the list of strings
+list1 = ["Mike", "", "Emma", "Kelly", "", "Brad"]
+Expected output:
+
+["Mike", "Emma", "Kelly", "Brad"]
+
+305. Add new item to list after a specified item
+Write a program to add item 7000 after 6000 in the following Python List
+
+Given:
+
+list1 = [10, 20, [300, 400, [5000, 6000], 500], 30, 40]
+Expected output:
+
+[10, 20, [300, 400, [5000, 6000, 7000], 500], 30, 40]
+
+
+306. Extend nested list by adding the sublist
+You have given a nested list. Write a program to extend it by adding the sublist ["h", "i", "j"] in such a way that it will look like the following list.
+
+Given List:
+
+list1 = ["a", "b", ["c", ["d", "e", ["f", "g"], "k"], "l"], "m", "n"]
+
+# sub list to add
+sub_list = ["h", "i", "j"]
+Expected Output:
+
+['a', 'b', ['c', ['d', 'e', ['f', 'g', 'h', 'i', 'j'], 'k'], 'l'], 'm', 'n']
+
+307. Replace list’s item with new value if found
+You have given a Python list. Write a program to find value 20 in the list, and if it is present, replace it with 200. Only update the first occurrence of an item.
+
+Given:
+
+list1 = [5, 10, 15, 20, 25, 50, 20]
+Expected output:
+
+[5, 10, 15, 200, 25, 50, 20]
+
+308. Remove all occurrences of a specific item from a list.
+Given a Python list, write a program to remove all occurrences of item 20.
+
+Given:
+
+list1 = [5, 20, 15, 20, 25, 50, 20]
+Expected output:
+
+[5, 15, 25, 50]
+
+309. Remove empty Lists from List 
+
+310. Given list values and keys list, convert these values to key value pairs in form of 
+     list of dictionaries.
+
+        Input : test_list = [“Gfg”, 3, “is”, 8], key_list = [“name”, “id”] 
+        Output : [{‘name’: ‘Gfg’, ‘id’: 3}, {‘name’: ‘is’, ‘id’: 8}] 
+        Explanation : Values mapped by custom key, “name” -> “Gfg”, “id” -> 3. 
+
+
+        Input : test_list = [“Gfg”, 10], key_list = [“name”, “id”] 
+        Output : [{‘name’: ‘Gfg’, ‘id’: 10}] 
+        Explanation : Conversion of lists to list of records by keys mapping.
+
+311. Convert List of Lists to Dictionary
+    
+     We are given list of lists we need to convert it to python . For example we are given a list of lists a = [[“a”, 1], [“b”, 2], [“c”, 3]] we need to convert the list in dictionary so that the output becomes {‘a’: 1, ‘b’: 2, ‘c’: 3}.
+
+312. Uncommon elements in Lists of List
+     
+     The original list 1 : [[1, 2], [3, 4], [5, 6]]
+     The original list 2 : [[3, 4], [5, 7], [1, 2]]
+     The uncommon of two lists is : [[5, 6], [5, 7]]
+
+313. select Random value from list of lists
+
+     Given a list of lists. The task is to extract a random element from it.
+
+        Examples:
+
+        Input : test_list = [[4, 5, 5], [2, 7, 4], [8, 6, 3]]
+        Output : 7
+        Explanation : Random number extracted from Matrix.
+        
+        Input : test_list = [[4, 5, 5], [2, 7, 4], [8, 6, 3]], r_no = 2
+        Output : 6
+        Explanation : Random number extracted from 2nd row from Matrix.
+
+314. Reverse Row sort in Lists of List
+
+     The original list is : [[4, 1, 6], [7, 8], [4, 10, 8]]
+     The reverse sorted Matrix is : [[6, 4, 1], [8, 7], [10, 8, 4]]
+
+315. Pair elements with Rear element in Matrix Row
+     
+     The original list is : [[4, 5, 6], [2, 4, 5], [6, 7, 5]]
+     The list after pairing is : [[[4, 6], [5, 6]], [[2, 5], [4, 5]], [[6, 5], [7, 5]]]
+
+316. 
+
+317.
+
+318.
+
+319.
+
+320.
+
+
+
 ```
