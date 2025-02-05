@@ -2,7 +2,7 @@
 
 1. Sum Items in List
 
-Write a Python program to sum all the items in a list.
+Write a Python program to sum all the integers items in a list.
 
 
 2. Multiply Items in List
@@ -22,9 +22,11 @@ Write a Python program to get the smallest number from a list.
 
 5. Count Strings with Same Start and End
 
-Write a Python program to count the number of strings from a given list of strings. The string length is 2 or more and the first and last characters are the same.
+Write a Python program to count the number of strings from a given list of strings. 
+Those string whose length is 2 or more and also the first and last characters are the same.
+
 Sample List : ['abc', 'xyz', 'aba', '1221']
-Expected Result : 2
+Expected Result : Count = 2 , strings = ['aba', '1221']
 
 
 6. Sort Tuples by Last Element
