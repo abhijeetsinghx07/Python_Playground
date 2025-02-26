@@ -1,20 +1,19 @@
 ```python
-#Output:
+# Find Output:
 
 l=[1,2,3,4,5]
 [x & 1 for x in l]
 ```
 
-
 ```python
-#Output:
+# Find Output:
 
 s=["pune","mumbai","delhi"]
 [(w.upper(),len(w))for w in s]
 ```
 
 ```python
-#Output:
+# Find Output:
 
 l=[[1,2,3],[4,5,6],[7,8,9]]
 [[row[i] for row in l] for i in range(3)]
@@ -28,7 +27,7 @@ out = [[1, 4, 7], [2, 5, 8], [3, 6, 9]]
 ```
 
 ```python
-#Output:
+# Find Output:
 
 list = [1,2,3,4,5]
 
@@ -38,7 +37,7 @@ print(list)
 ```
 
 ```python
-#Output:
+# Find Output:
 
 print([num for num in range(2,22) if all(num % i != 0 for i in range(2,num))])
 ```
@@ -70,4 +69,73 @@ print([num for num in range(2,22) if all(num % i != 0 for i in range(2,num))])
 ```python
 
 ```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
 
